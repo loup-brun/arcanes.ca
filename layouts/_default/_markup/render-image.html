@@ -1,0 +1,10 @@
+<figure>
+  <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+
+  <figcaption class="text-lg py-4">
+    <strong class="font-weight-bold">{{ .Title | markdownify }}</strong>
+    <p>
+      {{ .Text | markdownify }}
+    </p>
+  </figcaption>
+</figure>
