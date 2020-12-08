@@ -33,7 +33,7 @@ Voilà, c'est prêt!
 
 ## 💻 Local
 
-Démarrer un serveur local (http://localhost:1313 by default):
+Démarrer un serveur local (http://localhost:1313 par défault):
 
 ```bash
 make serve  # hugo serve --disableFastRender --buildDrafts --buildFuture
@@ -47,7 +47,7 @@ Construire le site dans le répertoire `public/`:
 make build  # rm -rf public && hugo --minify
 ```
 
-## 🚀 Deploiement
+## 🚀 Déploiement
 
 Les fichiers seront générés dans un dossier `public/`.
 Il s'agit de les transférer sur un serveur web.
