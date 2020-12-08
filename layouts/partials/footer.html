@@ -4,8 +4,9 @@
     <ul class="flex flex-row">
       {{ $currentPage := . }}
       {{- range .Site.Menus.footer -}}
-      <li class="mx-2{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }} active{{ end }}">
-        <a href="{{ .URL | relLangURL }}">
+      <li class="mr-2{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }} active{{ end }}">
+        <a href="{{ .URL | relLangURL }}"
+           class="underline hover:underline-none">
           {{- .Title -}}
         </a></li>
       {{- end -}}

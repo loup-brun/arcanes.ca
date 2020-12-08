@@ -19,17 +19,29 @@
 
     <main>
       {{- block "main" . }}{{/* Default to article with content */}}
-      <article class="container pb-20">
+      <article class="container py-10">
         
-        <header class="pt-16 pb-10">
-          <h1 class="text-2xl md:text-4xl lg:text-6xl">
+        <header class="pt-20 pb-10">
+          <h1 class="text-3xl md:text-4xl lg:text-6xl">
+
+            {{- if .Draft }}
+            <span class="text-white bg-black uppercase inline-block rounded-lg py-1 px-3 mb-2">{{ i18n "Draft" }}</span>
+            <br>
+            {{- end -}}
+
             {{- .Title -}}
           </h1>
+          
         </header>
         
-        <div class="content">
+        <hr class="my-6 md:my-10 border-t-4 border-black max-w-5xl">
+
+        {{ block "main-content" . }}
+        <div class="content py-10">
           {{- .Content -}}
         </div>
+        {{ end -}}
+
       </article>
       {{- end }}
     </main>

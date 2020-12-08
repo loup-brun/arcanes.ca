@@ -2,4 +2,4 @@
 title: Pour nous joindre
 ---
 
-Contactez Renée Bourassa <Renee.Bourassa@design.ulaval.ca>, chercheuse principale du projet.
+&rarr; Veuillez contacter Renée Bourassa <Renee.Bourassa@design.ulaval.ca>, chercheuse principale du projet.

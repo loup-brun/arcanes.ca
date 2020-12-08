@@ -11,14 +11,13 @@ h1, h2, h3, h4, h5, h6 {
   @apply leading-tight;
 }
 
-a {
-  @apply underline;
-}
-a:hover {
-  @apply no-underline;
-}
-
 .content {
+  a {
+    @apply underline;
+  }
+  a:hover {
+    @apply no-underline;
+  }
   @apply text-xl max-w-5xl;
   @screen md {
     @apply text-2xl;
@@ -57,7 +56,7 @@ a:hover {
   }
 
   b, strong {
-    @apply font-bold;
+    @apply font-semibold;
   }
   
   em {
@@ -93,6 +92,8 @@ a:hover {
     padding-left: 1em;
     margin: 0;
     margin-bottom: 1.25em; /* override */
+    
+    @apply border-l-4 border-solid border-current;
   }
   
   hr {

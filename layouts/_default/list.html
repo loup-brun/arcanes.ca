@@ -5,7 +5,7 @@
 {{- .Title | markdownify | plainify }} &mdash; {{ .Site.Title -}}
 {{- end -}}
 
-{{- define "main" -}}
+{{- define "main-content" -}}
 
 {{- if .Content -}}
 <article class="content">
@@ -14,7 +14,7 @@
 {{- end -}}
 
 {{- if .Pages -}}
-<ul class="list-unstyled">
+<ul class="my-20 max-w-5xl">
   {{- range .Pages -}}
   <li>
     {{- .Render "summary" -}}
@@ -23,12 +23,14 @@
 </ul>
 {{- end -}}
 
+{{/*
 {{- if .Pages -}}
 {{ with .OutputFormats.Get "rss" -}}
-<footer>
+<footer class="mt-20">
   <a rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="RSS">RSS</a>
 </footer>
 {{ end -}}
 {{- end -}}
+*/}}
 
 {{- end -}}

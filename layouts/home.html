@@ -2,21 +2,39 @@
 
 <article>
   
-  <div class="HomeLanding
+  {{- if .Params.landingText }}
+  <section class="HomeLanding
               py-20
               text-3xl sm:text-4xl md:text-5xl lg:text-6xl
               leading-tight"
        >
+    
     <div class="container">
       {{- .Params.landingText | markdownify -}}
     </div>
-  </div>
+  </section>
+  {{ end -}}
 
-  <div class="container">
-    <div class="content py-6 text-xl md:text-2xl lg:text-3xl max-w-5xl">
-      {{ .Content }}
+  <section class="HomeContent
+                  py-6">
+    <div class="container">
+      <div class="content text-xl md:text-2xl lg:text-3xl">
+        {{ .Content }}
+      </div>
     </div>
-  </div>
+  </section>
+  
+  {{- range .Params.sections }}
+  <section class="HomeSection
+                  py-20
+                  {{ .class | safeHTMLAttr }}">
+    <div class="container">
+      <div class="content">
+        {{ .body | markdownify}}
+      </div>
+    </div>
+  </section>
+  {{ end -}}
 
 </article>
 

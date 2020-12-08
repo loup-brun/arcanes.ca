@@ -10,7 +10,8 @@
       {{- $currentPage := . -}}
       {{- range .Site.Menus.main.ByWeight -}}
       <li class="mx-2{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }} active{{ end }}">
-        <a href="{{ .URL }}">{{ .Title }}</a>
+        <a href="{{ .URL }}"
+           class="underline hover:no-underline">{{ .Title }}</a>
       </li>
       {{- end -}}
     </ul>

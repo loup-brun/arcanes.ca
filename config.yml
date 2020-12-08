@@ -82,9 +82,9 @@ menu:
     title: Projet
     url: /a-propos
     weight: 1
-  - name: project
-    title: Calendrier
-    url: /calendrier
+  - name: seminaire
+    title: Séminaire
+    url: /seminaire
     weight: 2
   - name: contact
     title: Contact
