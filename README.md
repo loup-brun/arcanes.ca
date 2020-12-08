@@ -95,4 +95,4 @@ Params:
 
 ## License
 
-[WTFPL](http://wtfpl.net/about/)
+[CC0-1.0](https://creativecommons.org/share-your-work/public-domain/cc0)
