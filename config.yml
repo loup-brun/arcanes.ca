@@ -79,12 +79,12 @@ menu:
 
   main:
   - name: about
-    title: À propos
+    title: Projet
     url: /a-propos
     weight: 1
   - name: project
-    title: Projet
-    url: /projet
+    title: Calendrier
+    url: /calendrier
     weight: 2
   - name: contact
     title: Contact
