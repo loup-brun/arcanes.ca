@@ -32,8 +32,8 @@ Thème : L’étude des controverses - littératie des Fake News et  formation �
 
 Invités : 
 
-- Orelie Desfriches (U. Paris 8)
-- Samuel Szoniecky (U. Paris 8) 
+- Orelie Desfriches (U. Paris-VIII)
+- Samuel Szoniecky (U. Paris-VIII) 
 
 ## 05 mars 21
 

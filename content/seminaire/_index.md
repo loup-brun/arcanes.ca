@@ -4,6 +4,17 @@ title: Séminaire
 
 Ce séminaire est lié au projet de recherche « Des arts trompeurs à la post-vérité : régimes d’authenticité », financé par le Conseil de Recherche en Sciences Humaines du Canada.
 
+**Titre**: Post-vérité : Des arts trompeurs à la désinformation dans l’espace social: Puissances du faux et stratégies du leurre
+
+**Sigle**: LIT-7401
+
+**Professeurs responsables**:
+
+- Renée Bourassa (Université Laval, Canada)
+- Samuel Szoniecky (Université Paris-VIII, France)
+- Jean-Marc Larrue (Université de Montréal, Canada)
+
+
 ## Description
 
 Ce séminaire international et interdisciplinaire de cycles supérieurs vise à explorer les mécanismes à l'œuvre dans les arts trompeurs et l'espace informationnel qui activent les puissances du faux, prenant place dans une ère de post-vérité. Cette situation engendre des transformations majeures des systèmes de vérité, d'autorité et de légitimité à l'œuvre dans les dynamiques de médiation contemporaines. Nous explorerons également les filiations entre ces phénomènes contemporains et l’histoire des médias dans une perspective d’intermédialité.
