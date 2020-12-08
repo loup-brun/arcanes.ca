@@ -1,8 +1,9 @@
 ---
-title: 'Projet ARCANES – arts, communications, artifices numérique espaces sociaux'
+landingText: "Projet ARCANES – arts, communications, artifices numérique espaces sociaux"
 ---
 
-Post-vérité : Des arts trompeurs à la désinformation dans l’espace social 
+
+Post-vérité : Des arts trompeurs à la désinformation dans l’espace social  
 Puissances du faux et stratégies du leurre
 
 ## Séminaire
