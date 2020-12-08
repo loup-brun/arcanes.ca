@@ -1,0 +1,12 @@
+.container {
+  @apply px-6 mx-auto;
+  
+  @screen sm {
+    @apply px-8;
+  }
+  @screen md {
+    @apply px-10;
+  }
+  
+  max-width: 1280px; /* max breakpoint */
+}

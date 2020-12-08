@@ -1,0 +1,26 @@
+<header class="mb-12">
+  <h1 class="p-name text-4xl font-semibold sm:text-5xl md:text-6xl leading-none mb-2 sm:mr-4 inline-block py-4">
+    {{- if and .CurrentSection.Params.isNumberedSection (eq .Page.Kind "page") }}
+    <span class="p-subtitle block mb-2 text-darkBlue">#{{ .File.ContentBaseName }}</span>
+    {{- end -}}
+    {{- .Title | markdownify -}}
+  </h1>
+  {{- if .Draft -}}
+  <small class="inline-block text-sm px-2 py-2 my-2 bg-black text-white uppercase rounded align-top">{{ i18n "Draft" }}</small>
+  {{- end -}}
+  
+  {{/* Some metadata */}}
+  {{- if .Site.Author -}}
+  <div class="p-author h-card sr-only">
+    <span>{{ i18n "Written_by" | default "Par" }}</span>
+    <a href="{{ .Site.Author.uri }}" class="url fn n">
+      <span class="given-name ">
+        {{ .Site.Author.first }}
+      </span>
+      <span class="family-name ">
+        {{ .Site.Author.last }}
+      </span>
+    </a>
+  </div>
+  {{- end -}}
+</header>

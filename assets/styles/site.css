@@ -1,0 +1,115 @@
+::selection {
+  background-color: #000;
+  color: #fff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply leading-tight;
+}
+
+a {
+  @apply underline;
+}
+a:hover {
+  @apply no-underline;
+}
+
+.content {
+  
+  
+  h1 {
+    @apply text-2xl;
+  }
+  h2 {
+    @apply text-2xl;
+    
+    margin-top: 2em;
+    margin-bottom: 1em;
+    
+    @screen md {
+      @apply text-4xl;
+    }
+    @screen lg {
+      @apply text-5xl;
+    }
+  }
+  h3 {
+    @apply text-xl;
+
+    margin-top: 1.5em;
+    margin-bottom: .5em;
+  }
+  
+  hyphens: auto;
+  
+  p,
+  blockquote,
+  figure,
+  > img {
+    margin-bottom: 1.5em;
+  }
+
+  b, strong {
+    @apply font-bold;
+  }
+  
+  em {
+    font-style: italic;
+  }
+  
+  ol {
+    list-style-type: decimal;
+    list-style-position: inside;
+  }
+  
+  abbr {
+    cursor: help;
+  }
+
+  ul {
+    margin-bottom: 1em;
+    padding-left: 2em; /* Assuming em dash */
+    position: relative;
+
+    li {
+      &::before {
+        left: 0;
+        position: absolute;
+        content: '—';
+        margin-right: .5em;
+        margin-left: .5em;
+      }
+    }
+  }
+  
+  blockquote {
+    padding-left: 1em;
+    margin: 0;
+    margin-bottom: 1.25em; /* override */
+  }
+  
+  hr {
+    @apply border-t-4 my-16 border-black;
+  }
+}
+
+.footnotes {
+  
+  ol {
+    @apply list-decimal;
+    @apply list-inside;
+    @apply p-0;
+
+    li {
+      @apply mb-6;
+    }
+
+    p {
+      display: inline;
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{{- $data := index .Site.Data .Site.Language.Lang -}}
+
+<footer class="mt-16 md:mt-24 text-base tracking-normal" role="contentinfo">
+  {{- if .Param "date" -}}
+  <time class="dt-published" datetime="{{ .PublishDate.Format "2006-01-02 15:04:05" }}">{{ i18n "Published on" }}  {{ .PublishDate.Format "02" }} {{ index $data.months (printf "%d" .PublishDate.Month) }} {{ .PublishDate.Format "2006" }}.</time>
+  {{- end -}}
+  
+  {{- if .CurrentSection.Name }}
+  {{ $relPage := .PrevInSection | default .NextInSection }}
+  {{- if $relPage -}}
+  <div class="NextPage mt-12 py-6 border-t-4 border-solid border-darkBlue text-xl font-semibold">
+    {{- if .PrevInSection }}
+    {{- i18n "Next" | default "Prochaine" }}
+    {{- else }}
+    {{- i18n "Previous" | default "Précédente" }}
+    {{- end }}
+    {{ .CurrentSection.Title | singularize | lower }}:<br>
+    <a href="{{ $relPage.Permalink }}"
+       rel="next"
+       title="{{ $relPage.Title }}"
+       class="block mt-4 text-3xl md:text-4xl text-white light:text-blue no-underline">
+      {{- if and (eq .Section "r") (eq .Page.Kind "page") }}
+      <span class="p-subtitle mr-1 text-darkBlue">#{{ $relPage.File.ContentBaseName }}</span>
+      {{ end -}}
+      {{- $relPage.Title }} &rarr;</a>
+  </div>
+  {{- end -}}
+  {{- end -}}
+
+  {{- partial "footer-tags" . -}}
+</footer>
