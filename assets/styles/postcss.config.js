@@ -4,9 +4,10 @@ const purgecss = require('@fullhuman/postcss-purgecss')({
 
   // Specify the paths to all of the template files in your project
   content: [
-        'layouts/**/*.html',
-        'content/**/*.html',
-    ],
+    'layouts/**/*.html',
+    'content/**/*.{md,html}',
+    'public/**/*.html'
+  ],
 
   // This is the function used to extract class names from your templates
   defaultExtractor: content => {
@@ -25,7 +26,7 @@ module.exports = {
     require('postcss-import')({
       path: ['assets/styles'],
     }),         
-    require('tailwindcss')('./assets/styles/tailwind.config.js'),       
+    require('tailwindcss')('assets/styles/tailwind.config.js'),       
     require('postcss-nested'),
     require('autoprefixer')({
       grid: true,

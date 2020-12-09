@@ -9,7 +9,7 @@
     <ul class="SiteHead__Menu flex flex-row items-baseline">
       {{- $currentPage := . -}}
       {{- range .Site.Menus.main.ByWeight -}}
-      <li class="mx-2{{if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }} active{{ end }}">
+      <li class="mx-2 {{- if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }} active{{ end }}">
         <a href="{{ .URL }}"
            class="underline hover:no-underline">{{ .Title }}</a>
       </li>
