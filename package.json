@@ -12,7 +12,7 @@
   "author": "Louis-Olivier Brassard <louis@loupbrun.ca>",
   "license": "WTFPL",
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "^2.0.6",
+    "@fullhuman/postcss-purgecss": "^3.0.0",
     "autoprefixer": "^10.1.0",
     "postcss": "^8.2.0",
     "postcss-cli": "^8.3.0",
