@@ -2,4 +2,8 @@
 title: Pour nous joindre
 ---
 
-&rarr; Veuillez contacter Renée Bourassa <Renee.Bourassa@design.ulaval.ca>, chercheuse principale du projet.
+&rarr; Renée Bourassa <Renee.Bourassa@design.ulaval.ca>, Université Laval
+
+&rarr; Jean-Marc Larrue <jean-marc.larrue@umontreal.ca>, Université de Montréal
+
+&rarr; Samuel Szoniecky <samszon@gmail.com>, Université Paris-VIII

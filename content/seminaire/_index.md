@@ -29,9 +29,10 @@ Les objets de recherche visés sont situés à la fois dans la sphère des « ar
 
 ## Objectifs spécifiques
 
-Repérer, classer et inventorier des œuvres issues des arts trompeurs (fictions littéraires, cinématographiques, scéniques ou vidéoludiques) ainsi que des sites et ressources exemplifiant les puissances du faux ou les stratégies de tromperie (Deep Fakes, dispositifs d’IA et de simulation, Fake News, Bots politiques, Théories de la conspiration,) afin de peupler des carnets de recherche assortis d’annotations et de commentaires
+Repérer, classer et inventorier des œuvres issues des arts trompeurs (fictions littéraires, cinématographiques, scéniques ou vidéoludiques) ainsi que des sites et ressources exemplifiant les puissances du faux ou les stratégies de tromperie (Deep Fakes, dispositifs d’IA et de simulation, Fake News, Bots politiques, Théories de la conspiration,) afin de peupler des carnets de recherche assortis d’annotations et de commentaires.
+
 Problématiser une question relative à l’un des thèmes du séminaire, porteurs d’une réflexion critique.
 
 ## Formule pédagogique
 
-La formule pédagogique relie des étudiants québécois en études médiatiques et littérature, cinéma et arts vivants (Université Laval, Université de Montréal) avec des étudiants français en master humanités numériques (http://www.humanites-numeriques.univ-paris8.fr/). L’approche conjugue des présentations d’invités avec des rencontres-débats en ligne entre les participants ainsi que des activités pratiques d’éditorialisation numérique. Elle vise la mise en commun des recherches effectuées, le développement d’un dispositif d’éditorialisation numérique ainsi qu’un processus continu de réflexion critique.
+La formule pédagogique relie des étudiants québécois en études médiatiques et littérature, cinéma et arts vivants (Université Laval, Université de Montréal) avec des étudiants français en [master humanités numériques](http://www.humanites-numeriques.univ-paris8.fr/). L’approche conjugue des présentations d’invités avec des rencontres-débats en ligne entre les participants ainsi que des activités pratiques d’éditorialisation numérique. Elle vise la mise en commun des recherches effectuées, le développement d’un dispositif d’éditorialisation numérique ainsi qu’un processus continu de réflexion critique.
