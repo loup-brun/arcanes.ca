@@ -1,50 +1,56 @@
 ---
 title: Calendrier du séminaire 2021
-draft: true
 ---
 
-## 18 jan 21
+## 18 janvier 2021
 
 Introduction à la problématique et présentation du séminaire
 
-Thème: **Puissances du faux dans les arts trompeurs et l’espace social médiatisé**
+Thème:
+**Puissances du faux dans les arts trompeurs et l’écosystème socionumérique**
 
-- Renée Bourassa
-- Samuel Szoniecky
-- Jean-Marc Larrue
+- Renée Bourassa (U. Laval)
+- Jean-Marc Larrue (U. de Montréal)
+- Samuel Szoniecky (U. Paris-VIII)
 
-## 22 jan 21
+## 22 janvier 2021
 
-Atelier Participation critique 
+**Atelier participation critique**
 
-## 05 fév 21
+## 05 février 2021
 
-Thème : Stratégies de tromperies dans les arts vivants
+Thème :
+**Stratégies de tromperies dans les arts vivants**
 
 Invités : 
 
 - Robert Faguy (U. Laval)
 - Jean-Marc Larrue (U. de Montréal)
 
-## 19 fév 21
+## 19 février 2021
 
-Thème : L’étude des controverses - littératie des Fake News et  formation à l’esprit critique
+Thème :
+**L’étude des controverses : littéracie des Fake News et formation à l’esprit critique**
 
 Invités : 
 
 - Orelie Desfriches (U. Paris-VIII)
 - Samuel Szoniecky (U. Paris-VIII) 
 
-## 05 mars 21
+## 05 mars 2021
 
-Thème : **Faits, persectives, orientations : La (post) vérité n’existe pas / réalisme spéculatif et littérature : cyclonopédia**
+Thème :
+**Faits, perspectives, orientations : La (post) vérité n’existe pas / réalisme spéculatif et littérature : cyclonopédia**
 
 Invités :
 
 - Fabien Richert (UQAM)
 - Yves Citton (U. Genève)
 
-## 19 mars 21
+## 19 mars 2021
+
+Thème:
+**_Fake news_ et gouvernementalité algorithmique, désinformation et éthique médiatique**
 
 Invités :
 
@@ -53,23 +59,26 @@ Invités :
 
 ## 26 mars 2021
 
-Thème : **Stratégies de tromperies : simulation, intelligence artificielle, deep fakes et transhumanisme**
+Thème :
+**Simulation, _deep fakes_ et intelligence artificielle**
 
 Invités : 
 
 - Renée Bourassa (U. Laval)
 - _Invité à confirmer_
 
- ## 09 avril 2021
+## 09 avril 2021
 
-Thème : **Stratégies de tromperies au cinéma et dans les dispositifs télévisuels**
+Thème :
+**Stratégies de tromperies au cinéma et dans les dispositifs télévisuels**
 
 - Pascal Martin (École Nationale Supérieure Louis-Lumière)
 - Pierre Barrette (UQAM)
 
 ## 16 avril 2021
 
-Thème: **Pouvoirs d’agir, autorité, légitimité et visibilité dans l’espace numérique (traçabilité et mécanismes de contrôle, économie de l’attention, algorithme de surveillance, bots politiques, deep Fakes)**
+Thème :
+**Pouvoirs d’agir, autorités et visibilité dans les espaces numériques**
 
 Invités :
 
@@ -78,7 +87,6 @@ Invités :
 
 Modérateur : Fabien Richert (UQAM)
 
-## 3 avril 2021
+## 03 avril 2021
 
 **Colloque étudiant**
-
