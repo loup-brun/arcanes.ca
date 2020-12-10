@@ -7,6 +7,7 @@
 @import "assets/styles/site.css";
 @import "assets/styles/components/fonts.css";
 @import "assets/styles/components/container.css";
+@import "assets/styles/components/site-header.css";
 /* purgecss end ignore */
 
 /* Tailwind component classes registered by plugins */

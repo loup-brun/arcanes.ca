@@ -20,3 +20,11 @@ Les questions entourant l'authenticité se jouent autant à travers les arts t
 Le projet vise donc, en premier lieu, à mener une réflexion théorique en profondeur pour comprendre les formes d'authenticité, afin de développer une meilleure compréhension des mécanismes activant les «puissances du faux». En deuxième lieu, nous voulons repérer, documenter et analyser les oeuvres et les phénomènes de médiation contemporains relatifs à la question de l'authenticité, selon la perspective de l'intermédialité et de l'archéologie des médias, afin d'en retracer les filiations historiques et de mieux en comprendre en retour les enjeux actuels. En troisième lieu, sur le plan méthodologique, nous développons un dispositif d'éditorialisation innovant dans le sillon des Humanités numériques, soit un écosystème de recherche et de connaissances à partir des avancées et des méthodes du Web sémantique afin de rendre compte de nos processus de recherche et de nos résultats.
 
 Notre projet s'adresse tant à la communauté universitaire (chercheurs, étudiants) qu'au grand public. L'une de ses retombées est de contribuer à augmenter la littéracie informationnelle et numérique pour ces deux clientèles.
+
+## Partenaires du projet
+
+![](/logos/ArTeC_RVB.jpg)
+![](/logos/lantiss.jpeg)
+![](/logos/logo_paragraphe.gif)
+![](/logos/LogoParisLumieres.png)
+![](/logos/paris8.jpg)

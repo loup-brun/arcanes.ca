@@ -143,6 +143,9 @@ params:
   # Default/generic description
   description: "Des arts trompeurs à la désinformation dans l’espace social. Puissances du faux et stratégies du leurre."
   
+  # Short title
+  shortTitle: ARCANES
+  
   # Open Graph images (Facebook, Twitter)
   # Must be a *list*, e.g. lines starting with a dash
   # or comma-separated items surrounded by square brackets.

@@ -8,7 +8,7 @@ help:
 	@echo "  all     Build and deploy."
 
 serve:
-	hugo serve --disableFastRender --buildDrafts --buildFuture
+	hugo serve --buildDrafts --buildFuture
 
 build:
 	rm -rf public

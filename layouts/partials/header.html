@@ -1,19 +1,22 @@
-<nav class="SiteHead justify-between items-center py-8">
+<nav class="SiteHeader justify-between items-center">
   <div class="container flex flex-row flex-wrap items-baseline justify-between">
+
     <a href="{{ .Site.BaseURL }}"
        title="{{ .Site.Title | markdownify }}"
-       class="SiteHead__Title no-underline pr-3">
-      {{- .Site.Title | markdownify -}}
+       class="SiteHeader__Title text-2xl sm:text-3xl block py-4 pr-4 no-underline hover:underline">
+      {{- .Site.Params.shortTitle | default .Site.Title | markdownify -}}
     </a>
-
-    <ul class="SiteHead__Menu flex flex-row items-baseline">
+    
+    
+    <ul class="SiteHeader__Menu flex flex-row items-baseline justify-center">
       {{- $currentPage := . -}}
       {{- range .Site.Menus.main.ByWeight -}}
-      <li class="mx-2 {{- if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }} active{{ end }}">
+      <li class="mr-4 {{- if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }} active{{ end }}">
         <a href="{{ .URL }}"
-           class="underline hover:no-underline">{{ .Title }}</a>
+           class="block py-6 text-xl hover:underline">{{ .Title }}</a>
       </li>
       {{- end -}}
     </ul>
+
   </div>
 </nav>

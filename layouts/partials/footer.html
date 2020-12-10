@@ -1,12 +1,12 @@
-<footer class="py-20">
+<footer class="pt-10 pb-20 border-t-4 border-current border-solid">
   <div class="container flex flex-row justify-between">
     {{- if .Site.Menus.footer -}}
     <ul class="flex flex-row">
       {{ $currentPage := . }}
       {{- range .Site.Menus.footer -}}
-      <li class="mr-2 {{- if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }} active{{ end }}">
+      <li class="mr-4 {{- if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }} active{{ end }}">
         <a href="{{ .URL | relLangURL }}"
-           class="underline hover:underline-none">
+           class="text-xl underline hover:underline-none">
           {{- .Title -}}
         </a></li>
       {{- end -}}
