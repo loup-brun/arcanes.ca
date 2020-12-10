@@ -4,12 +4,12 @@ Site web pour le projet ARCANES.
 
 ## Pile technique
 
-- [Hugo](https://gohugo.io/), générateur de site statique ultra-rapide et fort répandu.
-- HTML riche et sémantique (OpenGraph, Schema.org, Dublin Core).
-- CSS + [PostCSS](https://postcss.org/) (Autoprefixer, nested, purgeCSS, import) + [TailwindCSS](https://tailwindcss.com/).
-- Git pour le versionnement + déploiement.
-- Contenu en Markdown (dossier `content/`).
-- Configuration en Yaml (fichier `config.yml`).
+- [Hugo](https://gohugo.io/), générateur de site statique populaire et rapide.
+- HTML riche et sémantique (OpenGraph, Schema.org, Dublin Core)
+- CSS + [TailwindCSS](https://tailwindcss.com/) + [PostCSS](https://postcss.org/) (Autoprefixer, nested, purgeCSS, import)
+- Git pour le versionnement + déploiement
+- Contenu en Markdown (dossier `content/`)
+- Configuration en Yaml (fichier `config.yml`)
 
 ## 🛠  Installation
 
