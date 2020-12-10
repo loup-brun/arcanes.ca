@@ -23,8 +23,59 @@ Notre projet s'adresse tant à la communauté universitaire (chercheurs, étu
 
 ## Partenaires du projet
 
-![](/logos/ArTeC_RVB.jpg)
-![](/logos/lantiss.jpeg)
-![](/logos/logo_paragraphe.gif)
-![](/logos/LogoParisLumieres.png)
-![](/logos/paris8.jpg)
+<div class="flex flex-row flex-wrap items-baseline">
+
+<figure class="mr-6 mb-6">
+
+<img alt="ArTeC"    
+src="/logos/logo-artec.jpg"
+/>
+
+</figure>
+
+<figure class="mr-6 mb-6">
+
+<img 
+     alt="Paris 8"
+     src="/logos/paris8.jpg"
+/>
+
+</figure>
+
+<figure class="mr-6 mb-6">
+
+<img 
+     alt="Laboratoire Paragraphe"
+     src="/logos/logo_paragraphe.gif"
+/>
+
+</figure>
+
+<figure class="mr-6 mb-6">
+
+<img 
+     alt="Paris Lumières"
+     src="/logos/LogoParisLumieres.png"
+/>
+
+</figure>
+
+<figure class="mr-6 mb-6">
+
+<img 
+     alt="LANTISS"
+     src="/logos/lantiss.jpeg"
+/>
+
+</figure>
+
+<figure class="mr-6 mb-6">
+
+<img 
+     alt="CRILCQ"
+     src="/logos/logo-crilcq.png"
+/>
+
+</figure>
+
+</div>
