@@ -11,7 +11,7 @@ Thème:
 
 - Renée Bourassa (U. Laval)
 - Jean-Marc Larrue (U. de Montréal)
-- Samuel Szoniecky (U. Paris-VIII)
+- Samuel Szoniecky (U. Paris 8)
 
 ## 22 janvier 2021
 
@@ -34,8 +34,8 @@ Thème :
 
 Invités : 
 
-- Orelie Desfriches (U. Paris-VIII)
-- Samuel Szoniecky (U. Paris-VIII) 
+- Orelie Desfriches (U. Paris 8)
+- Samuel Szoniecky (U. Paris 8) 
 
 ## 05 mars 2021
 
@@ -83,7 +83,7 @@ Thème :
 Invités :
 
 - Marcello Vitali-Rosati (U. de Montréal)
-- Arnaud Mercier (U. Paris-II)
+- Arnaud Mercier (U. Paris 2)
 
 Modérateur : Fabien Richert (UQAM)
 

@@ -11,7 +11,7 @@ Ce séminaire est lié au projet de recherche « Des arts trompeurs à la post-v
 **Professeurs responsables**:
 
 - Renée Bourassa (Université Laval, Canada)
-- Samuel Szoniecky (Université Paris-VIII, France)
+- Samuel Szoniecky (Université Paris 8, France)
 - Jean-Marc Larrue (Université de Montréal, Canada)
 
 

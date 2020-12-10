@@ -1,5 +1,5 @@
 ---
-landingText: "Projet ARCANES <br>arts, communications, artifices numérique espaces sociaux"
+landingText: "Projet ARCANES <br>arts, communications, artifices numériques et espaces sociaux"
 ---
 
 Post-vérité : Des arts trompeurs à la désinformation dans l’espace social  

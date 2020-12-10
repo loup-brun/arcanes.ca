@@ -6,4 +6,4 @@ title: Pour nous joindre
 
 &rarr; Jean-Marc Larrue <jean-marc.larrue@umontreal.ca>, Université de Montréal
 
-&rarr; Samuel Szoniecky <samszon@gmail.com>, Université Paris-VIII
+&rarr; Samuel Szoniecky <samszon@gmail.com>, Université Paris 8
