@@ -45,7 +45,7 @@ Thème :
 Invités :
 
 - Fabien Richert (UQAM)
-- Yves Citton (U. Genève)
+- Yves Citton (U. Paris 8)
 
 ## 19 mars 2021
 
