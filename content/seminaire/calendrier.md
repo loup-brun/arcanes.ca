@@ -30,7 +30,7 @@ Invités :
 ## 19 février 2021
 
 Thème :
-**L’étude des controverses : littéracie des Fake News et formation à l’esprit critique**
+**L’étude des controverses : littéracie des _fake news_ et formation à l’esprit critique**
 
 Invités : 
 
@@ -40,7 +40,7 @@ Invités :
 ## 05 mars 2021
 
 Thème :
-**Faits, perspectives, orientations : La (post) vérité n’existe pas / réalisme spéculatif et littérature : cyclonopédia**
+**Faits, perspectives, orientations : la (post) vérité n’existe pas / réalisme spéculatif et littérature : cyclonopédia**
 
 Invités :
 

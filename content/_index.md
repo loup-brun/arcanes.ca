@@ -3,11 +3,15 @@ landingText: "Projet ARCANES <br>arts, communications, artifices numériques et 
 ---
 
 Post-vérité : Des arts trompeurs à la désinformation dans l’espace social  
-Puissances du faux et stratégies du leurre
+Puissances du faux et stratégies du leurre ([en savoir plus](/a-propos/))
 
-## Séminaire
+## Séminaire (hiver 2021)
 
-Le [séminaire](/seminaire/) international et interdisciplinaire de cycles supérieurs vise à explorer les mécanismes à l'œuvre dans les arts trompeurs et l'espace informationnel qui activent les puissances du faux, prenant place dans une ère de post-vérité.
+**Un [séminaire](/seminaire/) international et interdisciplinaire de cycles supérieurs est proposé au trimestre d'hiver 2021.
+Les inscriptions sont ouvertes aux étudiant·e·s de tous horizons.
+Si vous êtes intéressé·e à y prendre part, [contactez-nous](/contact/).**
+
+Ce séminaire vise à explorer les mécanismes à l'œuvre dans les arts trompeurs et l'espace informationnel qui activent les puissances du faux, prenant place dans une ère de post-vérité.
 
 ## Partenaires
 
