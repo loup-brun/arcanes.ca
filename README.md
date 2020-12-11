@@ -36,7 +36,7 @@ Voilà, c'est prêt!
 Démarrer un serveur local (http://localhost:1313 par défault):
 
 ```bash
-make serve  # hugo serve --disableFastRender --buildDrafts --buildFuture
+make serve  # hugo serve --buildDrafts --buildFuture
 ```
 
 ## 📦 Production
