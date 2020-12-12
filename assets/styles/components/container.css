@@ -8,7 +8,7 @@
     @apply px-10;
   }
   
-  max-width: 1280px; /* max breakpoint */
+  max-width: 1350px; /* max breakpoint */
   
   &--full {
     max-width: none;

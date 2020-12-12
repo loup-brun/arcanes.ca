@@ -9,7 +9,7 @@
               leading-tight"
        >
     
-    <div class="container">
+    <div class="container container--full">
       {{- .Params.landingText | markdownify -}}
     </div>
   </section>
@@ -17,7 +17,7 @@
 
   <section class="HomeContent
                   py-6">
-    <div class="container">
+    <div class="container container--full">
       <div class="content text-xl md:text-2xl lg:text-3xl">
         {{ .Content }}
       </div>
@@ -28,7 +28,7 @@
   <section class="HomeSection
                   py-20
                   {{ .class | safeHTMLAttr }}">
-    <div class="container">
+    <div class="container container--full">
       <div class="content">
         {{ .body | markdownify}}
       </div>
