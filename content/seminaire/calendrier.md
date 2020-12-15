@@ -50,12 +50,12 @@ Invités :
 ## 19 mars 2021
 
 Thème:
-**_Fake news_ et gouvernementalité algorithmique, désinformation et éthique médiatique**
+**Gouvernementalité algorithmique, usages journalistiques et éthique médiatique**
 
 Invités :
 
 - Thomas Berns (U. Libre de Bruxelles)
-- _Invité à confirmer_
+- Alexandre Coutant (UQAM)
 
 ## 26 mars 2021
 
