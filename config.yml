@@ -78,13 +78,13 @@ Social:
 menu:
 
   main:
-  - name: about
-    title: Projet
-    url: /a-propos
-    weight: 1
   - name: seminaire
     title: Séminaire
     url: /seminaire
+    weight: 1
+  - name: about
+    title: Projet
+    url: /a-propos
     weight: 2
   - name: contact
     title: Contact
