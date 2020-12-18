@@ -40,7 +40,7 @@ Invités :
 ## 05 mars 2021
 
 Thème :
-**Faits, perspectives, orientations : la (post) vérité n’existe pas / réalisme spéculatif et littérature : cyclonopédia**
+**Hyperstition, spéculation et complot : schizoanalyse des imaginaires conspirationnistes **
 
 Invités :
 
