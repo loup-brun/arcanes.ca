@@ -60,12 +60,12 @@ Invités :
 ## 26 mars 2021
 
 Thème :
-**Régimes d’authenticité, dispositifs de véridiction, simulation, deep fakes et intelligence artificielle**
+**Authenticité, dispositifs et contre-dispositifs de véridiction, simulation, _deep fakes_ et intelligence artificielle**
 
 Invités : 
 
+- Philippe Useille (U. Valenciennes)
 - Renée Bourassa (U. Laval)
-- _Invité à confirmer_
 
 ## 09 avril 2021
 
