@@ -1,9 +1,9 @@
 ---
-landingText: "Projet ARCANES <br>arts, communications, artifices numériques et espaces sociaux"
+landingText: "Projet ARCANES <br>arts, communications, artifices numériques et écosystèmes socio-numériques"
 ---
 
-Post-vérité : Des arts trompeurs à la désinformation dans l’espace social  
-Puissances du faux et stratégies du leurre ([en savoir plus](/a-propos/))
+Post-vérité : Des arts trompeurs à la désinformation dans l’écosystème socio-numérique  
+Puissances du faux, artifices et stratégies de l’illusion ([en savoir plus](/a-propos/))
 
 ## Séminaire (hiver 2021)
 
