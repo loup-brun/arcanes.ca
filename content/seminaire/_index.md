@@ -2,6 +2,8 @@
 title: Séminaire
 ---
 
+![](/escaliers.jpg)
+
 Ce séminaire est lié au projet de recherche « Des arts trompeurs à la post-vérité : régimes d’authenticité », financé par le Conseil de Recherche en Sciences Humaines du Canada.
 
 **Titre**: Post-vérité : Des arts trompeurs à la désinformation dans l’espace social: Puissances du faux et stratégies du leurre

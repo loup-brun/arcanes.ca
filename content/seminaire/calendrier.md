@@ -40,12 +40,12 @@ Invités :
 ## 05 mars 2021
 
 Thème :
-**Hyperstition, spéculation et complot : schizoanalyse des imaginaires conspirationnistes **
+**De la postvérité aux imaginaires conspirationnistes**
 
 Invités :
 
-- Yves Citton (U. Paris 8)
-- Fabien Richert (UQAM)
+- Yves Citton (U. Paris 8) - Faits, perspectives, orientations : La (post) vérité n’existe pas / réalisme spéculatif et littérature : cyclonopédia
+- Fabien Richert (UQAM) - Hyperstition, spéculation et complot : schizoanalyse des imaginaires conspirationnistes
 
 ## 19 mars 2021
 
