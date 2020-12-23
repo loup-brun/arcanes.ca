@@ -1,4 +1,4 @@
-<nav class="SiteHeader justify-between items-center">
+<nav class="SiteHeader justify-between items-center border-t-8 border-black border-solid">
   <div class="container container--full flex flex-row flex-wrap items-baseline justify-between">
 
     <a href="{{ .Site.BaseURL }}"
@@ -13,7 +13,7 @@
       {{- range .Site.Menus.main.ByWeight -}}
       <li class="mr-4 {{- if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }} active{{ end }}">
         <a href="{{ .URL }}"
-           class="block py-6 text-xl hover:underline">{{ .Title }}</a>
+           class="block py-6 hover:underline">{{ .Title }}</a>
       </li>
       {{- end -}}
     </ul>

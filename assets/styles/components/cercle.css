@@ -1,0 +1,18 @@
+.cercle-fixe {
+  width: 33vw;
+  height: 33vw;
+  border-radius: 50%;
+  
+  background-color: #ffff00;
+  
+  background-image: linear-gradient(135deg, #ffdd00, #7700ff);
+  
+  position: fixed;
+  
+  bottom: 8vh;
+  right: 8vh;
+  
+  pointer-events: none;
+  
+  mix-blend-mode: multiply;
+}

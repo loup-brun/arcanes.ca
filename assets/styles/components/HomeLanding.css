@@ -1,0 +1,21 @@
+.HomeLanding {
+  
+  
+  &__figure {
+    position: absolute;
+    right: 0;
+    padding-bottom: 56.25%;
+    width: 44vw;
+    overflow: hidden;
+    background-color: #ffff00;
+    
+    img {
+      position: absolute;
+      width: 100%;
+      height: auto;
+      top: 0;
+      left: 0;
+      mix-blend-mode: luminosity;
+    }
+  }
+}
