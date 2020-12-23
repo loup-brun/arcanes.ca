@@ -11,6 +11,8 @@ Puissances du faux, artifices et stratégies de l’illusion ([en savoir plus](/
 Les inscriptions sont ouvertes aux étudiant·e·s de tous horizons.
 Si vous êtes intéressé·e à y prendre part, [contactez-nous](/contact/).**
 
+![](/escaliers.jpg)
+
 Ce séminaire vise à explorer les mécanismes à l'œuvre dans les arts trompeurs et l'espace informationnel qui activent les puissances du faux, prenant place dans une ère de post-vérité.
 
 ## Partenaires

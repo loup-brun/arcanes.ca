@@ -2,6 +2,8 @@
 title: Calendrier du séminaire 2021
 ---
 
+![](/lignes.jpg)
+
 ## 18 janvier 2021
 
 Introduction à la problématique et présentation du séminaire
