@@ -60,7 +60,7 @@ Invités :
 ## 26 mars 2021
 
 Thème :
-**régimes d’authenticité, dispositifs de véridiction, simulation, deep fakes et intelligence artificielle**
+**Régimes d’authenticité, dispositifs de véridiction, simulation, deep fakes et intelligence artificielle**
 
 Invités : 
 
