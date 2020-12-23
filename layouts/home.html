@@ -4,15 +4,21 @@
   
   {{- if .Params.landingText }}
   <section class="HomeLanding
-              py-20
-              text-3xl sm:text-4xl md:text-5xl lg:text-6xl
-              leading-tight"
+              py-20"
        >
     
     <div class="container container--full">
-      <span class="text-white bg-black">
+      <span class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl
+              leading-tight text-white bg-black">
       {{- .Params.landingText | markdownify -}}
       </span>
+      
+      {{ if .Params.subtext }}
+      <div class="mt-10
+                  text-xl md:text-2xl">
+        {{ .Params.subtext  | markdownify }}
+      </div>
+      {{ end -}}
     </div>
   </section>
   {{ end -}}
