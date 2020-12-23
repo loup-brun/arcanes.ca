@@ -6,7 +6,7 @@ title: Calendrier du séminaire 2021
 
 Introduction à la problématique et présentation du séminaire
 
-Thème:
+Thème :
 **Puissances du faux dans les arts trompeurs et l’écosystème socionumérique**
 
 - Renée Bourassa (U. Laval)
