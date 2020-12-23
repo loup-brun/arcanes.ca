@@ -85,7 +85,7 @@ Thème :
 Invités :
 
 - Marcello Vitali-Rosati (U. de Montréal)
-- Arnaud Mercier (U. Paris 2)
+- Arnaud Mercier (U. Paris 2) - Les fake news au coeur de l’écosystème socionumérique de l’information
 
 ## 03 avril 2021
 
