@@ -44,8 +44,8 @@ Thème :
 
 Invités :
 
-- Fabien Richert (UQAM)
 - Yves Citton (U. Paris 8)
+- Fabien Richert (UQAM)
 
 ## 19 mars 2021
 
@@ -60,7 +60,7 @@ Invités :
 ## 26 mars 2021
 
 Thème :
-**Simulation, _deep fakes_ et intelligence artificielle**
+**régimes d’authenticité, dispositifs de véridiction, simulation, deep fakes et intelligence artificielle**
 
 Invités : 
 
@@ -84,8 +84,6 @@ Invités :
 
 - Marcello Vitali-Rosati (U. de Montréal)
 - Arnaud Mercier (U. Paris 2)
-
-Modérateur : Fabien Richert (UQAM)
 
 ## 03 avril 2021
 
