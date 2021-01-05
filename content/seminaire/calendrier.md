@@ -4,7 +4,7 @@ title: Calendrier du séminaire 2021
 
 ![](/lignes.jpg)
 
-## 18 janvier 2021
+## Lundi 18 janvier 2021
 
 Introduction à la problématique et présentation du séminaire
 
@@ -15,7 +15,7 @@ Thème :
 - Jean-Marc Larrue (U. de Montréal)
 - Samuel Szoniecky (U. Paris 8)
 
-## 22 janvier 2021
+## Vendredi 22 janvier 2021
 
 **Atelier participation critique**
 
@@ -66,7 +66,7 @@ Thème :
 
 Invités : 
 
-- Philippe Useille (U. Valenciennes)
+- Philippe Useille (U. Valenciennes) – Les arcanes du vrai à l’heure des deep fakes : authenticité et dispositifs de véridiction.
 - Renée Bourassa (U. Laval)
 
 ## 09 avril 2021
