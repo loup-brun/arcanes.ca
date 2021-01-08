@@ -18,9 +18,9 @@ h1, h2, h3, h4, h5, h6 {
   a:hover {
     @apply no-underline;
   }
-  @apply text-xl max-w-5xl;
+  @apply text-lg max-w-5xl;
   @screen md {
-    @apply text-2xl;
+    @apply text-xl;
   }
 
   h1 {
@@ -29,8 +29,8 @@ h1, h2, h3, h4, h5, h6 {
   h2 {
     @apply text-3xl;
     
-    margin-top: 2em;
-    margin-bottom: 1em;
+    margin-top: 1.5em;
+    margin-bottom: .75em;
     
     @screen md {
       @apply text-4xl;

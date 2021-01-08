@@ -15,7 +15,6 @@
       
       {{ if .Params.subtext }}
       <div class="mt-10
-                  text-xl md:text-2xl
                   content">
         {{ .Params.subtext  | markdownify }}
       </div>
@@ -27,7 +26,7 @@
   <section class="HomeContent
                   py-6">
     <div class="container container--full">
-      <div class="content text-xl md:text-2xl lg:text-3xl">
+      <div class="content">
         {{ .Content }}
       </div>
     </div>
