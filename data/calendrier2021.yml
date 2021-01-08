@@ -1,0 +1,164 @@
+- date: 2020-01-18
+  description: Début du séminaire
+  seance: 
+  invites:
+
+    - nom: Renée Bourassa
+      affiliation: U. Laval
+      uri: 
+      bio: > 
+        Design médias et culture numériques. Design du livre en contexte numérique et systèmes d’écritures. Pratiques créatives, expérientielles et culture participative. Design de personnages de synthèse. Dispositifs de la culture numérique : fictions transmédiatiques, dispositifs narratifs, dispositifs géolocalisés, cinéma numérique, dispositifs de réalité augmentée, environnements multimodaux, jeux vidéos.
+
+    - nom: Jean-Marc Larrue
+      affiliation: U. de Montréal
+      uri: 
+
+    - nom: Samuel Szoniecky 
+      affiliation: U. Paris 8
+      uri: 
+
+
+- date: 2020-02-05
+  description: "**Stratégies de tromperies dans les arts vivants**"
+  seance: 2
+  invites: 
+
+    - nom: "Robert Faguy"
+      affiliation: "U. Laval"
+      uri: ""
+      bio: >
+        
+
+    - nom: "Jean-Marc Larrue"
+      affiliation: "U. de Montréal"
+      uri: ""
+      bio: >
+        
+
+
+- date: 2020-02-19
+  description: "**L’étude des controverses : littéracie des fake news et formation à l’esprit critique**"
+  seance: 3
+  invites: 
+
+    - nom: "Orelie Desfriches"
+      affiliation: "U. Paris 8"
+      uri: ""
+      bio: >
+        
+
+    - nom: "Samuel Szoniecky"
+      affiliation: "U. Paris 8"
+      uri: ""
+      bio: >
+        
+
+
+- date: 2020-03-05
+  description: >
+    **De la postvérité aux imaginaires conspirationnistes**
+    
+    - Faits, perspectives, orientations : La (post) vérité n’existe pas / réalisme spéculatif et littérature : cyclonopédia
+    
+    - Hyperstition, spéculation et complot : schizoanalyse des imaginaires conspirationnistes
+  seance: 4
+  invites: 
+
+    - nom: "Yves Citton"
+      affiliation: "U. Paris 8"
+      uri: ""
+      bio: >
+        
+
+    - nom: "Fabien Richert"
+      affiliation: "UQAM"
+      uri: ""
+      bio: >
+        
+
+
+- date: 2020-03-19
+  description: "**Gouvernementalité algorithmique, usages journalistiques et éthique médiatique**"
+  seance: 5
+  invites: 
+
+    - nom: "Thomas Berns"
+      affiliation: "U. Libre de Bruxelles"
+      uri: ""
+      bio: >
+        
+
+    - nom: "Alexandre Coutant"
+      affiliation: "UQAM"
+      uri: ""
+      bio: >
+        
+
+
+- date: 2020-03-26
+  description: >
+    **Authenticité, dispositifs et contre-dispositifs de véridiction, simulation, deep fakes et intelligence artificielle**
+    
+    - Les arcanes du vrai à l’heure des deep fakes : authenticité et dispositifs de véridiction.
+  seance: 6
+  invites: 
+
+    - nom: "Philippe Useille"
+      affiliation: "U. Valenciennes"
+      uri: ""
+      bio: >
+        
+
+    - nom: "Renée Bourassa"
+      affiliation: "U. Laval"
+      uri: ""
+      bio: >
+        
+
+
+- date: 2020-04-09
+  description: "**Stratégies de tromperies au cinéma et dans les dispositifs télévisuels**"
+  seance: 7
+  invites: 
+
+    - nom: "Pascal Mawrtin"
+      affiliation: "École Nationale Supérieure Louis-Lumière"
+      uri: ""
+      bio: >
+        
+
+    - nom: "Pierre Barrette"
+      affiliation: "UQAM"
+      uri: ""
+      bio: >
+        
+
+
+- date: 2020-04-16
+  description: >
+    **Pouvoirs d’agir, autorités et visibilité dans les espaces numériques**
+    
+    - *(à venir)*
+    
+    - Les fake news au cœur de l’écosystème socionumérique de l’information
+    
+  seance: 8
+  invites: 
+
+    - nom: "Marcello Vitali-Rosati"
+      affiliation: "U. de Montréal"
+      uri: "http://vitalirosati.com/"
+      bio: >
+        Marcello Vitali-Rosati est professeur au département des littératures de langue française de l'Université de Montréal et titulaire de la Chaire de recherche du Canada sur les écritures numériques. Il développe une réflexion philosophique sur les enjeux des technologies numériques: le concept de virtuel, l'identité numérique, les notions d’auteur et d'autorité, les formes de production, légitimation et circulation du savoir à l'époque du web, et la théorie de l'éditorialisation - dont il est l'un des contributeurs les plus actifs.
+
+    - nom: "Arnaud Mercier"
+      affiliation: "U. Paris 2"
+      uri: "http://u-paris2.academia.edu/arnaudmercier"
+      bio: >
+        Lauréat de l'IEP de Paris et docteur en science politique, Arnaud Mercier est Professeur en information-communication à l’Institut Français de Presse (université Paris 2-Assas). Il est l'auteur de nombreuses publications académiques sur la communication politique, les évolutions numériques du journalisme, l'usage des réseaux socionumériques. Il a dirigé les ouvrages La communication politique, (CNRS éditions,) en 2017 et  #info : commenter et partager l'actualité sur Twitter et Facebook (éditions de la Maison des Sciences de l'Homme) en 2018. 
+
+
+- date: 2020-04-23
+  description: "**Colloque étudiant**"
+  seance: 
+
