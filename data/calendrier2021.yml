@@ -14,9 +14,10 @@
       uri: 
 
     - nom: Samuel Szoniecky 
-      affiliation: U. Paris 8
-      uri: 
-
+      affiliation: U. Paris 8, Laboratoire Paragraphe
+      uri: https://samszo.univ-paris8.fr/
+      bio: > 
+        Maître de conférences au département humanités numériques de l’université Paris 8 et chercheur au laboratoire Paragraphe, explore de nouvelles méthodes d’ingénierie des connaissances dédiées au développement d’une intelligence collective centrée sur la stimulation, l’expression et le partage des sensibilités individuelles.
 
 - date: 2020-02-05
   description: "**Stratégies de tromperies dans les arts vivants**"
