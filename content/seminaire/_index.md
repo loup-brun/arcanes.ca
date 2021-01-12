@@ -1,14 +1,29 @@
 ---
-title: Séminaire
+title: Séminaire ARCANES
 ---
+
+<!--
+
+Formulaire d’inscription (mailing list)
+
+format: Visionconférence
+
+
+-->
 
 ![](/escaliers.jpg)
 
 Ce séminaire est lié au projet de recherche « Des arts trompeurs à la post-vérité : régimes d’authenticité », financé par le Conseil de Recherche en Sciences Humaines du Canada.
 
+<!--
+
+-->
+
 **Titre**: Post-vérité : Des arts trompeurs à la désinformation dans l’espace social: Puissances du faux et stratégies du leurre
 
 **Sigle**: LIT-7401
+
+**Modalité**: visioconférence
 
 **Professeurs responsables**:
 
@@ -39,3 +54,7 @@ Problématiser une question relative à l’un des thèmes du séminaire, porteu
 ## Formule pédagogique
 
 La formule pédagogique relie des étudiants québécois en études médiatiques et littérature, cinéma et arts vivants, études médiatiques, technologies de l’information et de la communication (Université Laval, Université de Montréal) avec des étudiants français en  master design et [humanités numériques](http://www.humanites-numeriques.univ-paris8.fr/). L’approche conjugue des présentations d’invités avec des rencontres-débats en ligne entre les participants ainsi que des activités pratiques d’éditorialisation numérique. Elle vise la mise en commun des recherches effectuées, le développement d’un dispositif d’éditorialisation numérique ainsi qu’un processus continu de réflexion critique.
+
+## Calendrier
+
+{{< tableau-seminaire >}}

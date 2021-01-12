@@ -6,10 +6,13 @@ subtext: >
   Puissances du faux, artifices et stratégies de l’illusion ([en savoir plus](/a-propos/))
 ---
 
-## Séminaire (hiver 2021)
+## Séminaire ARCANES (hiver 2021)
 
 Un [séminaire](/seminaire/) international et interdisciplinaire de cycles supérieurs (**LIT-7401 sujets spéciaux**) est proposé au trimestre d'hiver 2021.
 Les inscriptions sont ouvertes aux étudiant·e·s de tous horizons.
+
+{{< tableau-seminaire >}}
+
 Si vous êtes intéressé·e à y prendre part, [contactez-nous](/contact/).
 
 ![](/escaliers.jpg)
