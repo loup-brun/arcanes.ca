@@ -1,5 +1,7 @@
 ---
 title: Séminaire ARCANES
+
+coverImg: /escaliers.jpg
 ---
 
 <!--
@@ -11,7 +13,6 @@ format: Visionconférence
 
 -->
 
-![](/escaliers.jpg)
 
 Ce séminaire est lié au projet de recherche « Des arts trompeurs à la post-vérité : régimes d’authenticité », financé par le Conseil de Recherche en Sciences Humaines du Canada.
 

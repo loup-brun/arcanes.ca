@@ -19,28 +19,48 @@
 
     <main>
       {{- block "main" . }}{{/* Default to article with content */}}
-      <article class="container py-10">
-        
+      
+      <article>
+      
         <header class="pt-20 pb-10">
-          <h1 class="text-3xl md:text-4xl lg:text-6xl">
+          <div class="container">
 
-            {{- if .Draft }}
-            <span class="text-white bg-black uppercase inline-block rounded-lg py-1 px-3 mb-2">{{ i18n "Draft" }}</span>
-            <br>
-            {{- end -}}
+            <h1 class="text-3xl md:text-4xl lg:text-6xl">
 
-            {{- .Title -}}
-          </h1>
-          
+              {{- if .Draft }}
+              <span class="text-white bg-black uppercase inline-block rounded-lg py-1 px-3 mb-2">{{ i18n "Draft" }}</span>
+              <br>
+              {{- end -}}
+
+              {{- .Title -}}
+            </h1>
+
+<!--            <hr class="my-6 md:my-10 border-t-4 border-black max-w-5xl">-->
+          </div>
+
         </header>
         
-        <hr class="my-6 md:my-10 border-t-4 border-black max-w-5xl">
-
-        {{ block "main-content" . }}
-        <div class="content py-10">
-          {{- .Content -}}
-        </div>
+        {{- $images := $.Resources.ByType "image" -}}
+        {{- $coverImg := $images.GetMatch "*cover*" -}}
+        {{- if not $coverImg }}{{ $coverImg = $images.GetMatch "{*cover*,*feature*}" }}{{ end -}}
+        {{- with $coverImg -}}
+        <img src="{{ $coverImg.Permalink }}"
+             class="w-full mb-10"/>
+        {{ else -}}
+        {{- with .Params.coverImg -}}
+        <img src="{{ . | relURL }}"
+             class="w-full mb-10"/>
         {{ end -}}
+        {{ end -}}
+
+
+        <div class="container">
+          {{- block "main-content" . }}
+          <div class="content py-10">
+            {{- .Content -}}
+          </div>
+          {{ end -}}
+        </div>
 
       </article>
       {{- end }}
