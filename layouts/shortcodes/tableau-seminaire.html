@@ -19,9 +19,14 @@
         {{ range .invites }}
       <div class="border-b-1 py-1">
           <details>
-            <summary><strong>{{ .nom }}</strong></summary>
-            
-            <div class="my-1 pl-4 text-gray-500 text-xs">{{ .affiliation }}</div>
+            <summary>
+              <strong>{{ .nom }}</strong>
+              {{ if .affiliation }}
+              <div class="my-1 pl-5 text-gray-500 text-xs">
+              {{ .affiliation }}
+              </div>
+              {{ end }}
+            </summary>
             
             {{ if .bio }}
             <div class="text-gray-700 pl-4">
