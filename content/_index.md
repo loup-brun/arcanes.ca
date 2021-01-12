@@ -11,9 +11,11 @@ subtext: >
 Un [séminaire](/seminaire/) international et interdisciplinaire de cycles supérieurs (**LIT-7401 sujets spéciaux**) est proposé au trimestre d'hiver 2021.
 Les inscriptions sont ouvertes aux étudiant·e·s de tous horizons.
 
-{{< tableau-seminaire >}}
-
 Si vous êtes intéressé·e à y prendre part, [contactez-nous](/contact/).
+
+### Calendrier
+
+{{< tableau-seminaire >}}
 
 ![](/escaliers.jpg)
 
