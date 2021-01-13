@@ -1,8 +1,10 @@
 ---
 title: À propos du projet ARCANES
+
+coverImg: /spirale.jpg
 ---
 
-![](/spirale-triangle.jpg)
+<!--![](/spirale-triangle.jpg)-->
 
 ARCANES  
 « Des arts trompeurs à la post-vérité : régimes d’authenticité »

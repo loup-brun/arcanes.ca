@@ -20,6 +20,20 @@
     <main>
       {{- block "main" . }}{{/* Default to article with content */}}
       
+        
+        {{- $images := $.Resources.ByType "image" -}}
+        {{- $coverImg := $images.GetMatch "*cover*" -}}
+        {{- if not $coverImg }}{{ $coverImg = $images.GetMatch "{*cover*,*feature*}" }}{{ end -}}
+        {{- with $coverImg -}}
+        <img src="{{ $coverImg.Permalink }}"
+             class="w-full mb-10"/>
+        {{ else -}}
+        {{- with .Params.coverImg -}}
+        <img src="{{ . | relURL }}"
+             class="w-full mb-10"/>
+        {{ end -}}
+        {{ end -}}
+
       <article>
       
         <header class="pt-20 pb-10">
@@ -39,19 +53,6 @@
           </div>
 
         </header>
-        
-        {{- $images := $.Resources.ByType "image" -}}
-        {{- $coverImg := $images.GetMatch "*cover*" -}}
-        {{- if not $coverImg }}{{ $coverImg = $images.GetMatch "{*cover*,*feature*}" }}{{ end -}}
-        {{- with $coverImg -}}
-        <img src="{{ $coverImg.Permalink }}"
-             class="w-full mb-10"/>
-        {{ else -}}
-        {{- with .Params.coverImg -}}
-        <img src="{{ . | relURL }}"
-             class="w-full mb-10"/>
-        {{ end -}}
-        {{ end -}}
 
 
         <div class="container">
@@ -72,7 +73,7 @@
       {{- end -}}
     </footer>
 
-    <div class="cercle-fixe"></div>
+<!--    <div class="cercle-fixe"></div>-->
 
     <script>
       {{ if eq .Lang "fr" }}

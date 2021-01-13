@@ -5,7 +5,7 @@
 /* Do not purge these styles */
 /* purgecss start ignore */
 @import "assets/styles/site.css";
-@import "assets/styles/components/cercle.css";
+/*@import "assets/styles/components/cercle.css";*/
 @import "assets/styles/components/container.css";
 @import "assets/styles/components/fonts.css";
 @import "assets/styles/components/HomeLanding.css";
