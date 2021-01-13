@@ -1,7 +1,7 @@
 ---
 title: Pour nous joindre
 
-coverImg: /mur-archi.jpg
+coverImg: /labyrinthe.jpg
 ---
 
 &rarr; Renée Bourassa <Renee.Bourassa@design.ulaval.ca>, Université Laval
