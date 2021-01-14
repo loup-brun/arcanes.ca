@@ -27,8 +27,8 @@
 
 - date: 2020-02-05
 
-  heureMontreal: '9:00 - 11:00'
-  heureParis: '15:00 - 17:00'
+  heureMontreal: '10:00 - 12:00'
+  heureParis: '16:00 - 18:00'
   description: "**Stratégies de tromperies dans les arts vivants**"
   seance: 2
   invites: 
@@ -48,8 +48,8 @@
 
 - date: 2020-02-19
 
-  heureMontreal: '9:00 - 11:00'
-  heureParis: '15:00 - 17:00'
+  heureMontreal: '10:00 - 12:00'
+  heureParis: '16:00 - 18:00'
   description: "**L’étude des controverses : littéracie des fake news et formation à l’esprit critique**"
   seance: 3
   invites: 
@@ -69,8 +69,8 @@
 
 - date: 2020-03-05
 
-  heureMontreal: '9:00 - 11:00'
-  heureParis: '15:00 - 17:00'
+  heureMontreal: '10:00 - 12:00'
+  heureParis: '16:00 - 18:00'
   description: >
     **De la postvérité aux imaginaires conspirationnistes**
     
@@ -95,8 +95,8 @@
 
 - date: 2020-03-19
 
-  heureMontreal: '10:00 - 12:00*'
-  heureParis: '15:00 - 17:00'
+  heureMontreal: '110:00 - 22:00*'
+  heureParis: '16:00 - 18:00'
   description: >
     **Gouvernementalité algorithmique, usages journalistiques et éthique médiatique**
     
@@ -121,8 +121,8 @@
 
 - date: 2020-03-26
 
-  heureMontreal: '10:00 - 12:00*'
-  heureParis: '15:00 - 17:00'
+  heureMontreal: '110:00 - 22:00*'
+  heureParis: '16:00 - 18:00'
   description: >
     **Les arcanes du vrai à l’heure des deep fakes : authenticité et dispositifs de véridiction.**
     
@@ -159,8 +159,8 @@
 
 - date: 2020-04-09
 
-  heureMontreal: '9:00 - 11:00'
-  heureParis: '15:00 - 17:00'
+  heureMontreal: '10:00 - 12:00'
+  heureParis: '16:00 - 18:00'
   description: "**Stratégies de tromperies au cinéma et dans les dispositifs télévisuels**"
   seance: 7
   invites: 
@@ -180,8 +180,8 @@
 
 - date: 2020-04-16
 
-  heureMontreal: '9:00 - 11:00'
-  heureParis: '15:00 - 17:00'
+  heureMontreal: '10:00 - 12:00'
+  heureParis: '16:00 - 18:00'
   description: >
     **Pouvoirs d’agir, autorités et visibilité dans les espaces numériques**
     
@@ -207,8 +207,8 @@
 
 - date: 2020-04-23
 
-  heureMontreal: '9:00 - 11:00'
-  heureParis: '15:00 - 17:00'
+  heureMontreal: '10:00 - 12:00'
+  heureParis: '16:00 - 18:00'
   description: "**Colloque étudiant**"
   seance: 
 
