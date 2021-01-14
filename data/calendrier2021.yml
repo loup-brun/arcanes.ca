@@ -97,7 +97,12 @@
 
   heureMontreal: '10:00 - 12:00*'
   heureParis: '15:00 - 17:00'
-  description: "**Gouvernementalité algorithmique, usages journalistiques et éthique médiatique**"
+  description: >
+    **Gouvernementalité algorithmique, usages journalistiques et éthique médiatique**
+    
+    
+    \* Note: changement à l’heure avancée à Montréal.
+
   seance: 5
   invites: 
 
@@ -120,6 +125,9 @@
   heureParis: '15:00 - 17:00'
   description: >
     **Les arcanes du vrai à l’heure des deep fakes : authenticité et dispositifs de véridiction.**
+    
+    
+    \* Note: changement à l’heure avancée à Montréal.
     
     
     Comme phénomènes de désinformation, les deep fakes suscitent de plus en plus l’inquiétude. L’IA, sur laquelle ils reposent, perfectionne la possibilité de truquer les images et les sons. La technologie étant devenue accessible, la fabrication de deep fakes semble désormais à la portée de tous. Leur multiplication et leur diffusion annoncées sont perçues comme un nouveau facteur de désordre informationnel. En effet, les deep fakes sont un nouvel avatar des "puissances du faux" : ils miment ce qui fait l'authenticité d’un enregistrement audiovisuel tout en brouillant sa référentialité. Que disent les deep fakes des régimes d’interprétation qu’ils supposent et des “arcanes du vrai” à l’ère dite de la “post-vérité”?
