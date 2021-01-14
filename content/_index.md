@@ -10,7 +10,7 @@ coverImg: /mur-archi.jpg
 
 ## Séminaire ARCANES (hiver 2021)
 
-Un [séminaire](/seminaire/) international et interdisciplinaire de cycles supérieurs (**LIT-7401 sujets spéciaux**) est proposé au trimestre d'hiver 2021.
+Un [séminaire](/seminaire/) international et interdisciplinaire de cycles supérieurs (**LIT-7401 sujets spéciaux, U. Laval**) est proposé au trimestre d'hiver 2021.
 Les inscriptions sont ouvertes aux étudiant·e·s de tous horizons.
 L’objectif consiste à explorer les mécanismes à l'œuvre dans les arts trompeurs et l'espace informationnel qui activent les puissances du faux, prenant place dans une ère de post-vérité.
 
