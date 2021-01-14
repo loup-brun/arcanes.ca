@@ -95,8 +95,8 @@
 
 - date: 2020-03-19
 
-  heureMontreal: '9:00 - 11:00'
-  heureParis: '16:00 - 18:00*'
+  heureMontreal: '10:00 - 12:00*'
+  heureParis: '15:00 - 17:00'
   description: "**Gouvernementalité algorithmique, usages journalistiques et éthique médiatique**"
   seance: 5
   invites: 
@@ -116,8 +116,8 @@
 
 - date: 2020-03-26
 
-  heureMontreal: '9:00 - 11:00'
-  heureParis: '16:00 - 18:00*'
+  heureMontreal: '10:00 - 12:00*'
+  heureParis: '15:00 - 17:00'
   description: >
     **Les arcanes du vrai à l’heure des deep fakes : authenticité et dispositifs de véridiction.**
     
