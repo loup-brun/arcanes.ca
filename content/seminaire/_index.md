@@ -1,7 +1,7 @@
 ---
 title: Séminaire ARCANES
 
-coverImg: /escaliers.jpg
+coverImg: /escaliers-carres.jpg
 ---
 
 <!--
