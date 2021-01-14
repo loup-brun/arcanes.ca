@@ -61,4 +61,3 @@ La formule pédagogique relie des étudiants québécois en études médiatiques
 {{< tableau-seminaire >}}
 
 {{< courriel-form >}}
-

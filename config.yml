@@ -84,7 +84,7 @@ menu:
     weight: 1
   - name: calendrier
     title: Calendrier
-    url: /seminaire/calendrier
+    url: /seminaire/#calendrier
     weight: 2
   - name: about
     title: Projet

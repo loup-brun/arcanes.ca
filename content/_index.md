@@ -21,7 +21,3 @@ Si vous êtes intéressé·e à y prendre part, [contactez-nous](/contact/).
 _Ce calendrier est sujet à modifications._
 
 {{< tableau-seminaire >}}
-
-## Partenaires
-
-{{< partenaires >}}

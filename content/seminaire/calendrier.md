@@ -7,3 +7,5 @@ title: Calendrier du séminaire 2021
 _Ce calendrier est sujet à modifications._
 
 {{< tableau-seminaire >}}
+
+{{< courriel-form >}}

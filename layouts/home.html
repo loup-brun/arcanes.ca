@@ -48,9 +48,17 @@
     </div>
   </section>
   {{ end -}}
+  
+{{ partial "courriel-form.html" . }}
 
 </article>
 
-{{ partial "courriel-form.html" . }}
+<section class="container container--full">
+  <div class="content">
+    <h2>Partenaires</h2>
+
+    {{ partial "partenaires.html" . }}
+  </div>
+</section>
 
 {{ end }}
