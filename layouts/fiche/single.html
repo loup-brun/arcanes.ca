@@ -1,0 +1,34 @@
+{{ define "main-content" }}
+<a href="{{ .Page.CurrentSection.Permalink }}" class="button bg-gray-800 px-4 py-3 text-white rounded text-sm">&larr; Retour</a>
+
+<div class="content py-10">
+  <div class="p-2 md:p-4 text-base mb-10 border-t-4 border-b-4 border-current">
+    {{ if .Params.affiliation }}
+    <div class="mb-2">
+      <strong class="block">
+      Affiliation&nbsp;:
+      </strong> 
+    {{ if reflect.IsSlice .Params.affiliation }}
+    {{ range $index, $aff := .Params.affiliation }}
+    {{$aff}}{{ if lt (len $.Params.affiliation) $index }},{{ end}}
+    {{ end }}
+    {{ else }}
+    {{ .Params.affiliation }}
+    {{ end }}
+    </div>
+    {{ end }}
+    
+    {{ if .Params.uri }}
+    <div class="mb-4">
+      <strong class="block">Site web&nbsp;:</strong> {{ .Params.uri | markdownify }}
+    </div>
+    {{ end }}
+  </div>
+  
+  {{ if .Content }}
+  <h4>Biographie</h2>
+  {{- .Content -}}
+  
+  {{ end -}}
+</div>
+{{ end -}}
