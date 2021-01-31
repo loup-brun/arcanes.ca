@@ -3,9 +3,31 @@ landingText: "Projet ARCANES <br>arts, communications, artifices numériques et 
 subtext: > 
   Post-vérité : Des arts trompeurs à la désinformation dans l’écosystème socio-numérique  
   
-  Puissances du faux, artifices et stratégies de l’illusion ([en savoir plus](/a-propos/))
+  Puissances du faux, artifices et stratégies de l’illusion
+  
 
-coverImg: /mur-archi.jpg
+landingLogo: /logos/arcanes-anime.gif
+
+sections:
+
+- 
+  class: bg-arcanes-rouge text-arcanes-blanc
+  body: |
+    ## Ontologies, carnets de recherche
+    
+    À venir bientôt!
+- 
+  class: bg-arcanes-turquoise text-arcanes-blanc
+  body: |
+    ## Événements, articles, publications
+    
+    À venir bientôt!
+- 
+  class: bg-arcanes-mauve text-arcanes-blanc
+  body: |
+    ## Enseignement, séminaires
+    
+    Un premier séminaire est donné à l’hiver 2021 &darr;
 ---
 
 ## Séminaire ARCANES (hiver 2021)

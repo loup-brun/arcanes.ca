@@ -1,4 +1,4 @@
-<footer class="pt-10 pb-10 border-t-4 border-b-4 border-current border-solid">
+<footer class="pt-12 pb-12 bg-gray-900 text-arcanes-blanc border-t border-current border-solid text-xs">
   <div class="container container--full flex flex-row justify-between">
     <div role="contentinfo">
       &copy;&#32;
@@ -12,7 +12,7 @@
       {{- range .Site.Menus.footer -}}
       <li class="mr-4 {{- if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }} active{{ end }}">
         <a href="{{ .URL | relLangURL }}"
-           class="text-lg underline hover:underline-none">
+           class="underline hover:underline-none">
           {{- .Title -}}
         </a></li>
       {{- end -}}

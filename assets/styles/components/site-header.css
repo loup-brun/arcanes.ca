@@ -1,6 +1,19 @@
 .SiteHeader {
   
-  &__Title {
-    
+  &__logo {
+    display: block;
+  }
+  
+  &__title {
+    display: none;
+  }
+  
+  &:hover {
+    .SiteHeader__logo {
+      display: none;
+    }
+    .SiteHeader__title {
+      display: block
+    }
   }
 }

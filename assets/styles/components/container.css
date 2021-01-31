@@ -9,7 +9,7 @@
   }
   
   /* max breakpoint */
-  max-width: 62rem;
+  max-width: 66rem;
 
   &--full {
     max-width: none;

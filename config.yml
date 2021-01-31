@@ -82,10 +82,10 @@ menu:
     title: Séminaire
     url: /seminaire
     weight: 1
-  - name: calendrier
-    title: Calendrier
-    url: /seminaire/#calendrier
-    weight: 2
+#  - name: calendrier
+#    title: Calendrier
+#    url: /seminaire/#calendrier
+#    weight: 2
   - name: about
     title: Projet
     url: /a-propos

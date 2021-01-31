@@ -1,41 +1,33 @@
 {{ define "main" }}
 
-<article>
-  
-  {{- if .Params.landingText }}
-  <section class="HomeLanding
-                  py-20
-                  bg-black"
-           {{- if .Page.Params.coverImg }}
-           style="background-image: url('{{- .Page.Params.coverImg }}'); background-size: cover; background-position: center center;"
-           {{ end -}}
-       >
-    
-    <div class="container container--full">
-      <span class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl
-              leading-tight text-black bg-white">
-      {{- .Params.landingText | markdownify -}}
-      </span>
-      
-      {{ if .Params.subtext }}
-      <div class="mt-10
-                  text-white
-                  content">
-        {{ .Params.subtext  | markdownify }}
-      </div>
-      {{ end -}}
-    </div>
-  </section>
-  {{ end -}}
+{{- if .Params.landingText }}
+<section class="HomeLanding
+                py-10"
+     >
 
-  <section class="HomeContent
-                  py-6">
-    <div class="container">
-      <div class="content">
-        {{ .Content }}
-      </div>
+  <div class="container container--full">
+    <figure class="my-6">
+      <img src="{{ .Params.landingLogo }}" alt="ARCANES" />
+    </figure>
+
+    <span class="text-3xl sm:text-4xl md:text-5xl
+            leading-tight">
+    {{- .Params.landingText | markdownify -}}
+    </span>
+
+    {{ if .Params.subtext }}
+    <div class="mt-10
+                md:text-2xl
+                content">
+      {{ .Params.subtext  | markdownify }}
     </div>
-  </section>
+    {{ end -}}
+  </div>
+</section>
+
+{{- end -}}
+
+<article>
   
   {{- range .Params.sections }}
   <section class="HomeSection
@@ -48,13 +40,23 @@
     </div>
   </section>
   {{ end -}}
+
+  <section class="HomeContent
+                  py-6
+                  text-arcanes-mauve">
+    <div class="container">
+      <div class="content">
+        {{ .Content }}
+      </div>
+    </div>
+  </section>
   
 {{ partial "courriel-form.html" . }}
 
 </article>
 
-<section class="container container--full">
-  <div class="content">
+<section class="container">
+  <div class="content text-arcanes-foret">
     <h2>Partenaires</h2>
 
     {{ partial "partenaires.html" . }}

@@ -1,5 +1,5 @@
 .HomeLanding {
-  
+  min-height: 100vh;
   
   &__figure {
     position: absolute;

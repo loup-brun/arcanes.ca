@@ -1,6 +1,6 @@
 ::selection {
-  background-color: #000;
-  color: #fff;
+  background-color: theme('colors.arcanes.DEFAULT');
+  color: theme('colors.arcanes.blanc');
 }
 
 html {
