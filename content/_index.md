@@ -6,7 +6,7 @@ subtext: >
   Puissances du faux, artifices et stratégies de l’illusion
   
 
-landingLogo: /logos/arcanes-anime.gif
+landingLogo: /logos/arcanes/arcanes-anime.gif
 
 sections:
 
