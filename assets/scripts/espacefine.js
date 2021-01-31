@@ -51,7 +51,7 @@ function espaceFine(searchNode) {
      * @type {String}
      */
         // Louis edit: 0.33 em for narrower space
-        espace = '<span style="font-size: 0.33em">&nbsp;</span>',
+        espace = '<span style="font-size: 0.5em">&nbsp;</span>',
         // espace = '&#x202F;',
 
     /**
