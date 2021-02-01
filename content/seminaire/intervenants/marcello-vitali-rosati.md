@@ -5,7 +5,7 @@ title: 'Marcello Vitali Rosati'
 # Affiliation (université d’attache, centre de recherche, etc.)
 affiliation:
   - 'Université de Montréal'
-  - Chaire de recherche du Canada sur les écritures numériques'
+  - 'Chaire de recherche du Canada sur les écritures numériques'
 
 # Site web
 uri: ''

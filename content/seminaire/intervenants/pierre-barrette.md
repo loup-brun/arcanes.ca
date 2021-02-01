@@ -3,7 +3,7 @@
 title: 'Pierre Barrette'
 
 # Affiliation (université d’attache, centre de recherche, etc.)
-affiliation: ''
+affiliation: 'UQAM'
 
 # Site web
 uri: ''

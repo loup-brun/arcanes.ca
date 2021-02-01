@@ -8,43 +8,29 @@
     Dans le cadre des journées Cross media.
   seance: 
   invites:
-
-    - nom: Renée Bourassa
-      affiliation: U. Laval
-      uri: 
-      bio: > 
-        Intérêts de recherche : design médias et culture numériques. Design du livre en contexte numérique et systèmes d’écritures. Pratiques créatives, expérientielles et culture participative. Design de personnages de synthèse. Dispositifs de la culture numérique : fictions transmédiatiques, dispositifs narratifs, dispositifs géolocalisés, cinéma numérique, dispositifs de réalité augmentée, environnements multimodaux, jeux vidéos.
-
-    - nom: Jean-Marc Larrue
-      affiliation: U. de Montréal
-      uri: 
-
-    - nom: Samuel Szoniecky 
-      affiliation: U. Paris 8, Laboratoire Paragraphe
-      uri: https://samszo.univ-paris8.fr/
-      bio: > 
-        Maître de conférences au département humanités numériques de l’université Paris 8 et chercheur au laboratoire Paragraphe, explore de nouvelles méthodes d’ingénierie des connaissances dédiées au développement d’une intelligence collective centrée sur la stimulation, l’expression et le partage des sensibilités individuelles.
+    - renee-bourassa
+    - jean-marc-larrue
+    - samuel-szoniecky 
 
 - date: 2021-02-05
 
   heureMontreal: '10:00 - 12:00'
   heureParis: '16:00 - 18:00'
-  description: "**Stratégies de tromperies dans les arts vivants**"
+  description: > 
+    **De la tromperie au canular : le mélange des réalités en arts vivants**
+    
+    
+    Si le théâtre a toujours été un art qui a mis de l’avant des stratégies propres à créer  l’illusion, les nouvelles esthétiques ont modifié grandement le contrat spectatoriel en faisant intervenir sur scène des régimes performatifs (on parle ainsi de présentation au lieu de représentation) et technologiques (comme le visuel médiatisé qui est le média par excellence pour se prêter à des exercices docu-menteurs). À l’aide d’exemples, on tracera ainsi certaines lignes qui aident à réfléchir sur la manière dont la manipulation prend maintenant place au sein de l’expérience scénique partagée. 
+    
+    
+    **Stratégies de tromperies dans les arts vivants**
+    
+    
+    Si le théâtre a toujours été un art qui a mis de l’avant des stratégies propres à créer  l’illusion, les nouvelles esthétiques ont modifié grandement le contrat spectatoriel en faisant intervenir sur scène des régimes performatifs (on parle ainsi de présentation au lieu de représentation) et technologiques (comme le visuel médiatisé qui est le média par excellence pour se prêter à des exercices docu-menteurs). À l’aide d’exemples, on tracera ainsi certaines lignes qui aident à réfléchir sur la manière dont la manipulation prend maintenant place au sein de l’expérience scénique partagée. 
   seance: 2
   invites: 
-
-    - nom: "Robert Faguy"
-      affiliation: "U. Laval"
-      uri: ""
-      bio: >
-        
-
-    - nom: "Jean-Marc Larrue"
-      affiliation: "U. de Montréal"
-      uri: ""
-      bio: >
-        
-
+    - robert-faguy
+    - jean-marc-larrue
 
 - date: 2021-02-19
 
@@ -53,109 +39,55 @@
   description: "**L’étude des controverses : littéracie des fake news et formation à l’esprit critique**"
   seance: 3
   invites: 
-
-    - nom: "Orelie Desfriches Doria"
-      affiliation: "U. Paris 8, Laboratoire Paragraphe"
-      uri: ""
-      bio: >
-        
-
-    - nom: "Samuel Szoniecky"
-      affiliation: "U. Paris 8, Laboratoire Paragraphe"
-      uri: ""
-      bio: >
-        
-
+    - orelie-desfriches-doria
+    - samuel-szoniecky
 
 - date: 2021-03-05
 
   heureMontreal: '10:00 - 12:00'
   heureParis: '16:00 - 18:00'
   description: >
-    **De la postvérité aux imaginaires conspirationnistes**
     
-    - Faits, perspectives, orientations : La (post) vérité n’existe pas
+    **Faits, perspectives, orientations : La (post) vérité n’existe pas**  
+    Cette présentation proposera de prendre envers les notions de post-vérité et de fake news la distance de trois décadrages. D’une part, les faits sont toujours des facta : même lorsqu’ils correspondent à une réalité attestée, ils ont été constitués comme « faits » par des dispositifs technico-idéologiques (de même que les data sont toujours des capta). Ensuite, les faits sont toujours vu à partir d’un nombre limité de points de vue : c’est la perspective dans laquelle on les voit/place qui leur donne une partie de leur signification. Enfin, la perspective elle-même ne peut conférer du sens qu’à partir d’orientationsgénérales (idéologies), structuratrices de valorisations qui sont toujours culturelles.  
+    Il résulte de ces décadrages que « la » vérité au singulier n’a jamais existé parmi les humains, et que la post-vérité est un faux problème, le vrai écueil sur lequel butent nos systèmes (mal-nommés) d’« information » étant avant tout celui de la pertinence. En revanche, les mutations du paradigme indiciaire (avec l’avènement des « deep fake »), la fluidification des reconnaissances d’autorité, et la capacité à assurer des chaines de référentialité fiables sont bel et bien des questions cruciales pour essayer de moins mal comprendre notre présent. 
     
-    - Hyperstition, spéculation et complot : schizoanalyse des imaginaires conspirationnistes
+
+    **Hyperstition, spéculation et complot : schizoanalyse des imaginaires conspirationnistes**
   seance: 4
   invites: 
-
-    - nom: "Yves Citton"
-      affiliation: "U. Paris 8"
-      uri: ""
-      bio: >
-        
-
-    - nom: "Fabien Richert"
-      affiliation: "UQAM"
-      uri: ""
-      bio: >
-        
-
-
+    - yves-citton
+    - fabien-richert
 - date: 2021-03-19
 
   heureMontreal: '11:00 - 13:00*'
   heureParis: '16:00 - 18:00'
   description: >
+    <mark>Note: changement à l’heure avancée à Montréal.</mark>
+    
+    
     **Gouvernementalité algorithmique, usages journalistiques et éthique médiatique**
-    
-    
-    \* Note: changement à l’heure avancée à Montréal.
 
   seance: 5
   invites: 
-
-    - nom: "Thomas Berns"
-      affiliation: "U. Libre de Bruxelles"
-      uri: ""
-      bio: >
-        
-
-    - nom: "Alexandre Coutant"
-      affiliation: "UQAM"
-      uri: ""
-      bio: >
-        
-
+    - thomas-berns
+    - alexandre-coutant
 
 - date: 2021-03-26
 
   heureMontreal: '11:00 - 13:00*'
   heureParis: '16:00 - 18:00'
   description: >
-    **Les arcanes du vrai à l’heure des deep fakes : authenticité et dispositifs de véridiction.**
+    <mark>Note: changement à l’heure avancée à Montréal.</mark>
     
     
-    \* Note: changement à l’heure avancée à Montréal.
-    
-    
+    **Les arcanes du vrai à l’heure des deep fakes : authenticité et dispositifs de véridiction.**  
     Comme phénomènes de désinformation, les deep fakes suscitent de plus en plus l’inquiétude. L’IA, sur laquelle ils reposent, perfectionne la possibilité de truquer les images et les sons. La technologie étant devenue accessible, la fabrication de deep fakes semble désormais à la portée de tous. Leur multiplication et leur diffusion annoncées sont perçues comme un nouveau facteur de désordre informationnel. En effet, les deep fakes sont un nouvel avatar des "puissances du faux" : ils miment ce qui fait l'authenticité d’un enregistrement audiovisuel tout en brouillant sa référentialité. Que disent les deep fakes des régimes d’interprétation qu’ils supposent et des “arcanes du vrai” à l’ère dite de la “post-vérité”?
   seance: 6
   invites: 
-
-    - nom: "Philippe Useille"
-      affiliation: "U. Valenciennes"
-      uri: "http://www.uphf.fr/DEVISU/membres/useille_philippe"
-      bio: >
-        Maître de conférences en Sciences de l'Information et de la Communication 
-        
-        
-        Responsable pédagogique du parcours design informationnel et journalisme transmédia du master création numérique  
-        
-        http://www.uphf.fr/DEVISU/membres/useille_philippe
-
-    - nom: "Angelina Toursel"
-      affiliation: "U. Polytechnique Hauts-de-France"
-      uri: ""
-      bio: >
-
-    - nom: "Renée Bourassa"
-      affiliation: "U. Laval"
-      uri: ""
-      bio: >
-        Intérêts de recherche : design médias et culture numériques. Design du livre en contexte numérique et systèmes d’écritures. Pratiques créatives, expérientielles et culture participative. Design de personnages de synthèse. Dispositifs de la culture numérique : fictions transmédiatiques, dispositifs narratifs, dispositifs géolocalisés, cinéma numérique, dispositifs de réalité augmentée, environnements multimodaux, jeux vidéos.
-
+    - philippe-useille
+    - angelina-toursel
+    - renee-bourassa
 
 - date: 2021-04-09
 
@@ -164,19 +96,8 @@
   description: "**Stratégies de tromperies au cinéma et dans les dispositifs télévisuels**"
   seance: 7
   invites: 
-
-    - nom: "Pascal Martin"
-      affiliation: "École Nationale Supérieure Louis-Lumière"
-      uri: ""
-      bio: >
-        
-
-    - nom: "Pierre Barrette"
-      affiliation: "UQAM"
-      uri: ""
-      bio: >
-        
-
+    - pascal-martin
+    - pierre-barrette
 
 - date: 2021-04-16
 
@@ -185,25 +106,13 @@
   description: >
     **Pouvoirs d’agir, autorités et visibilité dans les espaces numériques**
     
-    - *(à venir)*
     
-    - Les fake news au cœur de l’écosystème socionumérique de l’information
+    **Les fake news au cœur de l’écosystème socionumérique de l’information**
     
   seance: 8
   invites: 
-
-    - nom: "Marcello Vitali Rosati"
-      affiliation: "U. de Montréal"
-      uri: "http://vitalirosati.com/"
-      bio: >
-        Marcello Vitali Rosati est professeur au département des littératures de langue française de l'Université de Montréal et titulaire de la Chaire de recherche du Canada sur les écritures numériques. Il développe une réflexion philosophique sur les enjeux des technologies numériques: le concept de virtuel, l'identité numérique, les notions d’auteur et d'autorité, les formes de production, légitimation et circulation du savoir à l'époque du web, et la théorie de l'éditorialisation - dont il est l'un des contributeurs les plus actifs.
-
-    - nom: "Arnaud Mercier"
-      affiliation: "U. Paris 2"
-      uri: "http://u-paris2.academia.edu/arnaudmercier"
-      bio: >
-        Lauréat de l'IEP de Paris et docteur en science politique, Arnaud Mercier est Professeur en information-communication à l’Institut Français de Presse (université Paris 2-Assas). Il est l'auteur de nombreuses publications académiques sur la communication politique, les évolutions numériques du journalisme, l'usage des réseaux socionumériques. Il a dirigé les ouvrages La communication politique, (CNRS éditions,) en 2017 et  #info : commenter et partager l'actualité sur Twitter et Facebook (éditions de la Maison des Sciences de l'Homme) en 2018. 
-
+    - marcello-vitali-rosati
+    - arnaud-mercier
 
 - date: 2021-04-23
 
