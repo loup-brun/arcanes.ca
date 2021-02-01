@@ -1,6 +1,6 @@
 ---
 # Le titre tient lieu de nom complet
-title: 'Arnaud Mecier'
+title: 'Arnaud Mercier'
 
 # Affiliation (université d’attache, centre de recherche, etc.)
 affiliation: 'Université Paris 2'
