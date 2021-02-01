@@ -96,10 +96,10 @@ menu:
     weight: 4
 
   footer:
-    - name: rss
-      title: RSS
-      url: /index.xml
-      weight: 1
+#    - name: rss
+#      title: RSS
+#      url: /index.xml
+#      weight: 1
     - name: contact
       title: Nous joindre
       url: /contact
