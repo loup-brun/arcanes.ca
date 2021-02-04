@@ -6,22 +6,10 @@ subtext: >
   Puissances du faux, artifices et stratégies de l’illusion
   
 
-landingLogo: /logos/arcanes/arcanes-anime.gif
+landingLogo: /logos/arcanes/logo-nb.png
 
 sections:
 
-- 
-  class: bg-arcanes-rouge text-arcanes-blanc
-  body: |
-    ## Ontologies, carnets de recherche
-    
-    À venir bientôt!
-- 
-  class: bg-arcanes-turquoise text-arcanes-blanc
-  body: |
-    ## Événements, articles, publications
-    
-    À venir bientôt!
 - 
   class: bg-arcanes-mauve text-arcanes-blanc
   body: |
