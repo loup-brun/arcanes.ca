@@ -12,22 +12,64 @@
       Laissez-nous votre courriel pour obtenir l’accès aux séances virtuelles.
     </p>
 
-    <form action="http://formulaires.arcanes.ca/modules/form_builder/published/infolettre.php" method="post" enctype="multipart/form-data" id="ts_form_element_id" name="edit_submission_form">
-      <input type="hidden" id="form_tools_published_form_id" value="1">
+    
+    <div id="mauticform_wrapper_inscriptionalinfolettre" class="mauticform_wrapper">
+      <form autocomplete="false" role="form" method="post" action="https://infolettre.arcanes.ca/form/submit?formId=1" id="mauticform_inscriptionalinfolettre" data-mautic-form="inscriptionalinfolettre" enctype="multipart/form-data">
+        <div class="mauticform-error" id="mauticform_inscriptionalinfolettre_error"></div>
+        <div class="mauticform-message" id="mauticform_inscriptionalinfolettre_message"></div>
+        <div class="mauticform-innerform">
 
-      <div class="form-group py-2">
-        <label for="courriel"
-               class="block font-bold mb-1">
-          Courriel
-        </label>
+        <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
 
-        <input type="text" name="courriel" value="" class="p-2 border-2 border-arcanes-mauve rounded bg-arcanes-blanc text-arcanes-mauve text-lg">
-      </div>
-      
-      <input type="submit" value="Soumettre" name="form_tools_continue" class="inline-block bg-arcanes-mauve text-white py-4 px-6 rounded mt-4 cursor-pointer" />
-      
-      
+          <div id="mauticform_inscriptionalinfolettre_courriel" data-validate="courriel" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-1 mauticform-required">
+            <label id="mauticform_label_inscriptionalinfolettre_courriel" for="mauticform_input_inscriptionalinfolettre_courriel" class="mauticform-label block font-bold mb-2">Courriel</label>
+            <input id="mauticform_input_inscriptionalinfolettre_courriel" name="mauticform[courriel]" value="" placeholder="nom@exemple.com" class="mauticform-input p-2 border-2 border-arcanes-mauve rounded bg-arcanes-blanc text-arcanes-mauve text-lg w-full md:w-1/2" type="email">
+            <span class="mauticform-errormsg" style="display: none;">Ceci est requis.</span>
+          </div>
 
-    </form>
+          <div id="mauticform_inscriptionalinfolettre_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-2">
+            <button type="submit" name="mauticform[submit]" id="mauticform_input_inscriptionalinfolettre_submit" value="" class="mauticform-button inline-block bg-arcanes-mauve text-white py-4 px-6 rounded mt-4 cursor-pointer">Envoyer</button>
+          </div>
+
+
+        <input type="hidden" name="mauticform[formId]" id="mauticform_inscriptionalinfolettre_id" value="1">
+        <input type="hidden" name="mauticform[return]" id="mauticform_inscriptionalinfolettre_return" value="">
+        <input type="hidden" name="mauticform[formName]" id="mauticform_inscriptionalinfolettre_name" value="inscriptionalinfolettre">
+
+      </form>
+    </div>
+
+
+    <script type="text/javascript">
+      /** This section is only needed once per page if manually copying **/
+      if (typeof MauticSDKLoaded == 'undefined') {
+          var MauticSDKLoaded = true;
+          var head            = document.getElementsByTagName('head')[0];
+          var script          = document.createElement('script');
+          script.type         = 'text/javascript';
+          script.src          = 'https://infolettre.arcanes.ca/media/js/mautic-form.js';
+          script.onload       = function() {
+              MauticSDK.onLoad();
+          };
+          head.appendChild(script);
+          var MauticDomain = 'https://infolettre.arcanes.ca';
+          var MauticLang   = {
+              'submittingMessage': "Merci de patienter..."
+          }
+      }else if (typeof MauticSDK != 'undefined') {
+          MauticSDK.onLoad();
+      }
+    </script>
+
+    <script>
+      var emailForm = document.getElementById('mauticform_inscriptionalinfolettre')
+      
+      emailForm.addEventListener('submit', function () {
+        emailForm.setAttribute('disabled', true);
+      });
+    </script>
+
   </div>
 </div>
+
+
