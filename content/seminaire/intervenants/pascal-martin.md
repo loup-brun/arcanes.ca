@@ -1,6 +1,6 @@
 ---
 # Le titre tient lieu de nom complet
-title: 'Pasacal Martin'
+title: 'Pascal Martin'
 
 # Affiliation (université d’attache, centre de recherche, etc.)
 affiliation: 'École Nationale Supérieure Louis-Lumière'
