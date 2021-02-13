@@ -8,7 +8,7 @@ affiliation:
   - 'Laboratoire Paragraphe'
 
 # Site web
-uri: ''
+uri: 'https://samszo.univ-paris8.fr/'
 
 # Indiquer le type de page pour la disposition
 type: fiche
