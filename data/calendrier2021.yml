@@ -44,9 +44,9 @@
   
   
     **Humanisme numérique pour manipuler des connaissances entre confiances intimes et numériques (Samuel Szoniecky)**
+    
   
-  
-    Entre pouvoir de discernement et pouvoir d'agir, nous manipulons nos connaissances avec des analogies qui coordonnent nos perceptions et nos actions. Nous tapons sur nos claviers, nous changeons la vitesse de notre voiture ou nous répliquons à un argument qui nous semble fallacieux, d'autant plus automatiquement que nous sommes confiant dans ces analogies. Nous construisons continuellement depuis notre naissance cette confiance intime qui règle nos rapports intuitifs avec le monde en faisant l'économie de l'analyse, du calcul et de l'argumentation : je le sais parce que je le sens. Mais parce qu'elle s'ancre profondément dans notre intimité, cette confiance est facilement manipulable par des émotions et donc par ceux qui jouent avec elles. A l'inverse, dans le monde du Web sémantique et du LinKed Open Data, la confiance est le résultat d'une construction de rapports formels. Ici plus de place pour l'émotion, seul compte la calculabilité des formes symboliques. Parce qu'elle se base sur des savoirs très techniques, cette confiance n'est pas facilement manipulable par tous mais uniquement par des experts. Dans un monde où la perte de confiance est le symptôme de plus en plus flagrant d'un malaise dans la civilisation, peut-on concevoir un humanisme numérique qui associe confiances intime et numérique pour coordonner collectivement nos perceptions et nos actions ?
+    Entre pouvoir de discernement et pouvoir d'agir, nous manipulons nos connaissances avec des analogies qui coordonnent nos perceptions et nos actions. Nous tapons sur nos claviers, nous changeons la vitesse de notre voiture ou nous répliquons à un argument qui nous semble fallacieux, d'autant plus automatiquement que nous sommes confiant dans ces analogies. Nous construisons continuellement depuis notre naissance cette confiance intime qui règle nos rapports intuitifs avec le monde en faisant l'économie de l'analyse, du calcul et de l'argumentation : je le sais parce que je le sens. Mais parce qu'elle s'ancre profondément dans notre intimité, cette confiance est facilement manipulable par des émotions et donc par ceux qui jouent avec elles. A l'inverse, dans le monde du Web sémantique et du LinKed Open Data, la confiance est le résultat d'une construction de rapports formels. Ici plus de place pour l'émotion, seul compte la calculabilité des formes symboliques. Parce qu'elle se base sur des savoirs très techniques, cette confiance n'est pas facilement manipulable par tous mais uniquement par des experts. Dans un monde où la perte de confiance est le symptôme de plus en plus flagrant d'un malaise dans la civilisation, peut-on concevoir un humanisme numérique qui associe confiances intime et numérique pour coordonner collectivement nos perceptions et nos actions ?
   
   seance: 3
   invites: 
@@ -114,11 +114,15 @@
 
   heureMontreal: '10:00 - 12:00'
   heureParis: '16:00 - 18:00'
-  description: "**Stratégies de tromperies au cinéma et dans les dispositifs télévisuels**"
+  description: >
+    
+    **Le réel «performé» des dispositifs ludiques de téléréalité**
+    
+    Les émissions de téléréalité ont contribué significativement à transformer la manière dont la télévision «produit» de la réalité et «documente» le réel existant, influençant par là-même notre rapport à l’expérience ainsi que la manière dont nous envisageons la vérité des «événements médiatiques». Au-delà du «mélange des genres» qu’elle suppose sur le plan des effets de surface et du dispositif, la TR doit être étudiée pour ce qu’elle révèle des constructions énonciatives originales qu’elle engage le téléspectateur à produire et des conséquences de celle-ci sur le statut respectif de la fiction, du documentaire et des jeux en contexte de communication télévisuelle.
   seance: 7
   invites: 
-    - pascal-martin
     - pierre-barrette
+    - pascal-martin
 
 - date: 2021-04-16
 
