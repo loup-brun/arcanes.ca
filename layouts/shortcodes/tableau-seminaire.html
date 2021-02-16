@@ -6,7 +6,7 @@
 
     <div class="hidden md:block flex-shrink-0 md:w-1/2 py-2 md:pr-2">Description</div>
 
-    <div class="hidden md:block flex-shrink-0 md:w-3/10 py-2 md:pr-2">Invité·es</div>
+    <div class="hidden md:block md:w-3/10 py-2 md:pr-2">Invité·es</div>
 
   </div>
   
@@ -25,7 +25,7 @@
         {{ .description | markdownify }}
     </div>
 
-    <div class="flex-shrink-0 md:w-3/10 md:py-2 md:pr-2">
+    <div class="md:w-3/10 md:py-2 md:pr-2">
 
       {{ range .invites }}
       {{ $invite := $.Site.GetPage . }}
