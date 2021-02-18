@@ -14,6 +14,4 @@ type: fiche
 # Le contenu du fichier markdown fait office de biographie
 ---
 
-Maître de conférences en Sciences de l’Information et de la Communication
-
-Responsable pédagogique du parcours design informationnel et journalisme transmédia du master création numérique
+Design informationnel et journalisme transmédia de l’Université Polytechnique Hauts-de-France, Philippe Useille est docteur et maître de conférences en sciences de l’information et communication. Il étudie les formes et les écritures émergentes de l’information à la croisée des cultures médiatiques contemporaines. Ses recherches portent spécifiquement  sur le design de l’information médiatique, l’innovation en journalisme, la théorie des médias, l’épistémologie de l’information, l’étude de la désinformation et des pratiques de fact-checking.
