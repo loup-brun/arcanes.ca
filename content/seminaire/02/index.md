@@ -1,5 +1,5 @@
 ---
-title: Séance 02
+title: Séance 02 - Séminaire hiver 2019
 ---
 
 Documents de la deuxième séance:
