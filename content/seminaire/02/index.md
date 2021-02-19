@@ -6,7 +6,7 @@ Documents de la deuxième séance:
 
 [Présentation d’Orelie Desfriche-Doria](http://medias.arcanes.ca/seminaire/h21/02/litteracie-fake-news-V4-Arcanes.pdf)
 
-[Modélisation](http://medias.arcanes.ca/seminaire/h21/02/litteracie-fake-news-V4-Arcanes.pdfLa modélisation-EC-reprise-ACFAS-VF-envoi-dec2020.pdf)
+[Modélisation](http://medias.arcanes.ca/seminaire/h21/02/litteracie-fake-news-V4-Arcanes.pdf)
 
 [7_doria_ok(9).pdf](http://medias.arcanes.ca/seminaire/h21/02/litteracie-fake-news-V4-Arcanes.pdf7_doria_ok_9_.pdf)
 
