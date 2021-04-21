@@ -164,7 +164,7 @@
 
   heureMontreal: '10:00 - 12:00'
   heureParis: '16:00 - 18:00'
-  description: "**Colloque étudiant**"
+  description: "**Présentation d’étudiants de maîtrise et de doctorat**"
   seance: 8
   invites:
     - louis-olivier-brassard
