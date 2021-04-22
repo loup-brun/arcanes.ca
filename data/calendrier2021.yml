@@ -164,10 +164,33 @@
 
   heureMontreal: '10:00 - 12:00'
   heureParis: '16:00 - 18:00'
-  description: "**Présentation d’étudiants de maîtrise et de doctorat**"
+  description: >
+    **Quels régimes de création dans le médium algorithmique surveillé? (Louis-Olivier Brassard)**
+
+
+    Le déploiement des infrastructures connectées, marqué par une croissance sans précédent ces dernières décennies, semble annoncer plus que jamais la réalisation des dystopies qui mettent en scène des sociétés surveillées.
+    De tels récits, actualisés notamment par les révélations d'Edward Snowden en 2013 (l'interception systémique des communications numériques à l'échelle mondiale par les agences de renseignement) ou le scandale Cambridge Analytica (le ciblage de millions d'internautes à leur insu, grâce à une quantité phénoménale de données béhaviorales), sont présents depuis longtemps dans l'imaginaire social, que ce soit à partir d'œuvres de fiction (*1984* de George Orwell) ou de traités philosophiques (*Le panoptique* de Jeremy Bentham).
+    Dans une démarche croisant la sociologie, la littérature et la philosophie de la technique, nous examinerons l'importance que revêt la prolifération des «technologies de surveillance» (permettant au sens large la captation des données comportementales et biométriques) pour la création artistique.
+    Quelles contraintes ces technologies introduisent-elles pour les créateur·trice·s, d'une part, et quelles potentialités artistiques génèrent-elles, d'autre part?
+    La réflexion proposée s'achèvera sur une étude de cas de l'auteur.
+
+
+    **De SMEL (Du spectacle magique au numériques : espaces liminaires de l’authenticité) aux ARCANES (Gabrielle Godin)**
+
+
+    Genèse de l’actuelle recherche sur les ARCANES, le projet SMEL (acronyme pour Du spectacle magique au numérique : espaces liminaires de l’authenticité) mené de 2018 à 2020 s’est plongé dans l’étude du corpus Houdini, célèbre illusionniste prolifique, de la collection d’archives Allan Slaight du Musée McCord à Montréal. Créant des parallèles entre la scène de la magie de la première partie du XXe siècle caractérisée par la révolution électrique et la scène médiatique plus contemporaine chamboulée par l’avènement des pratiques du numérique, le projet SMEL se situe entre l’archéologie des médias et l’expectative de l’intermédialité pour penser l’espace médiatique/numérique d’aujourd’hui autour de l’authenticité et de la médiation. Cette communication énoncera d’abord les objectifs et l’aboutissement de SMEL, puis les raisons de la mutation de cette recherche en ARCANES. Ensuite, elle se concentrera sur les techniques de traitement des sources documentaires employées lors de SMEL pour inventorier le corpus. De la réflexion de l’interopérabilité des données, à l’organisation d’une base de données sémantique jusqu’au premier prototypage d’un dispositif d’éditorialisation, le propos amènera à examiner les expérimentations faites, leurs résultats, et les processus qui nous servent de premières pistes pour penser à l’objectif actuel du développement d’un écosystème de recherche des ARCANES.
+
+
+    **Faire entendre l’inouï : étude d’une création radiophonique de science-fiction (Erwan Geffroy)**
+
+
+    Depuis l’invention des techniques d’enregistrement sonore, tel que le phonographe à la fin XIXe siècle, ou l’émergence de la télécommunication et de la radiophonie, il est possible de reproduire un son sans apercevoir, ou être en présence, de la cause originelle de sa production.
+    L’évolution du support d’enregistrement mécanique vers la bande électromagnétique, au milieu du XXe siècle, puis vers des systèmes d’enregistrement numériques, a rendu toujours plus aisée la modification des signaux sonores enregistrés ainsi que la création des sons entièrement de synthèse.
+    Ces procédés se sont généralisés au sein des processus de créations cinématographiques et vidéoludiques, entre autres, afin de donner des identités sonores à des appareils, des créatures, ou des phénomènes physiques fictifs.
+    Mais, dans le contexte exclusivement sonore d’une création radiophonique de science-fiction, comment faire « entendre le futur » ? À partir d’une étude de cas, il sera ici proposé une hypothèse pouvant s’avérer intéressante dans la réflexion sur les « puissances du faux » menée au sein du séminaire Arcanes.
   seance: 8
   invites:
     - louis-olivier-brassard
-    - erwan-geffroy
     - gabrielle-godin
+    - erwan-geffroy
 
